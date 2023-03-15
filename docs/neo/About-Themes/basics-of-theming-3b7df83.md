@@ -57,5 +57,5 @@ Since custom themes only store the custom changes, future updates to the base th
 
 [http://less2css.org/](http://less2css.org/ "Use this page to enter LESS code and display the corresponding CSS code.")
 
-[Typical LESS Functions](https://help.sap.com/viewer/46ace68cf57b452c900d2bcb88018c52/2302/en-US/e1a5b2de087645c0a35f764e0d259df0.html "The following is a list of typical LESS functions for colors.") :arrow_upper_right:
+[Typical LESS Functions](https://help.sap.com/viewer/46ace68cf57b452c900d2bcb88018c52/2303/en-US/e1a5b2de087645c0a35f764e0d259df0.html "The following is a list of typical LESS functions for colors.") :arrow_upper_right:
 
