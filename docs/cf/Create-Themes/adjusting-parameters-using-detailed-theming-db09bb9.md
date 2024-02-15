@@ -10,7 +10,10 @@ If you want to theme specific controls and change more parameters than the quick
 
 ## Prerequisites
 
-You have selected a theme as the base of your theme and an application for the preview.
+-   You have created a theme or selected an existing one and opened it for editing. For more information, see [Creating a New Theme](creating-a-new-theme-72c730b.md).
+
+-   You have added preview pages and selected one of them. For more information, see [Adding Preview Pages](adding-preview-pages-8af60d3.md).
+
 
 > ### Restriction:  
 > Detailed theming is only available for the SAP Quartz Light and SAP Quartz Dark theme.

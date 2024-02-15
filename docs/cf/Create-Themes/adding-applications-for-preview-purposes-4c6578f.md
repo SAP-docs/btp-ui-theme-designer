@@ -2,25 +2,25 @@
 
 # Adding Applications for Preview Purposes
 
-You can add applications to the *Preview Pages* pane to preview a theme. The applications must run on the same host or domain as the UI theme designer.
+You can add applications to the *Preview Pages* pane to preview a theme. The applications can run on the same or a different host or domain as UI theme designer.
 
 
 
 ## Context
 
-Besides using predefined preview pages to preview a theme in the UI theme designer, you can add applications to the *Preview Pages* pane. The application must run on the same host or domain as UI theme designer to be able to apply the theme to the application page in UI theme designer.
+Besides using predefined preview pages to preview a theme in UI theme designer, you can add applications to the *Preview Pages* pane. If the application runs on the same host or domain as UI theme designer, you can apply the theme to the application page in UI theme designer without additional steps. If the application runs on a different host or domain, UI theme designer can only preview the theme if the preview page comes up with support for the UI theme designer. That is: The preview page must process a post-message sent by UI theme designer. For further details, check the following tutorial: [Add a Cross Origin Preview for the UI Theme Designer](https://developers.sap.com/tutorials/add-cross-origin-preview-page.html).
 
 
 
 ## Procedure
 
-1.  Select *Add Preview Pages* in the theme designer editor.
+1.  Choose *Add Preview Pages* in the theme designer editor.
 
 2.  Enter the URL of the application in the *Link to Application* field under the *Add Application* section.
 
 3.  \(Optional\) Name the application.
 
-4.  Press *OK*.
+4.  Choose *Add*.
 
 
 

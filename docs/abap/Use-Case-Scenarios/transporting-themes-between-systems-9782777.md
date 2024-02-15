@@ -12,7 +12,7 @@ Administrators can transport themes from one system to another using the Tool fo
 
 -   You have administrator rights.
 
-    For more information on prerequisites, see SAP Note [2066504](https://launchpad.support.sap.com/#/notes/2066504).
+    For more information on prerequisites, see SAP Note [2066504](https://me.sap.com/notes/2066504).
 
 -   Several preparations must be done if you want to apply custom themes an application.
 

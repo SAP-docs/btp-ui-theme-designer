@@ -20,14 +20,10 @@ The following tables give an overview of the platforms and browser versions supp
 
 Browser
 
-
-
 </th>
 <th valign="top">
 
 Supported
-
-
 
 </th>
 </tr>
@@ -36,14 +32,10 @@ Supported
 
 Microsoft Edge
 
-
-
 </td>
 <td valign="top">
 
 Latest version
-
-
 
 </td>
 </tr>
@@ -52,14 +44,10 @@ Latest version
 
 Google Chrome
 
-
-
 </td>
 <td valign="top">
 
 Latest version
-
-
 
 </td>
 </tr>
@@ -68,14 +56,10 @@ Latest version
 
 Mozilla Firefox
 
-
-
 </td>
 <td valign="top">
 
 Latest Rapid Release \(RR\) and Extended Support Release \(ESR\)
-
-
 
 </td>
 </tr>
@@ -94,14 +78,10 @@ Latest Rapid Release \(RR\) and Extended Support Release \(ESR\)
 
 Browser
 
-
-
 </th>
 <th valign="top">
 
 Supported
-
-
 
 </th>
 </tr>
@@ -110,14 +90,10 @@ Supported
 
 Apple Safari
 
-
-
 </td>
 <td valign="top">
 
 Latest version
-
-
 
 </td>
 </tr>
@@ -126,14 +102,10 @@ Latest version
 
 Google Chrome
 
-
-
 </td>
 <td valign="top">
 
 Latest version
-
-
 
 </td>
 </tr>

@@ -41,7 +41,7 @@ You can hardcode your custom theme as an initial theme in the HTML script tag of
 
 
 
-For more information, see SAP Note [2043817](https://launchpad.support.sap.com/#/notes/2043817)
+For more information, see SAP Note [2043817](https://me.sap.com/notes/2043817)
 
 > ### Sample Code:  
 > ```

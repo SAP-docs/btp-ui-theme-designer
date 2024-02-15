@@ -42,7 +42,7 @@ This is how you assign the permission:
 
 12. Click *New Group* and enter the name of the group for the UI theme designer users
 
-    For example, ***ThemeDesignerDev***.
+    For example, `ThemeDesignerDev`.
 
 13. Click *Assign* to assign the `AccountDeveloper` role to the group.
 

@@ -30,7 +30,7 @@ Click the shapes for more information.
 
 3.  Save your theme as an HTML5 application.
 
-    For more information, see .
+    For more information, see  <?sap-ot O2O class="- topic/xref " href="d986f77e5c6744de9a170859c63008f6.xml" text="" desc="" xtrc="xref:8" xtrf="file:/home/builder/src/dita-all/kte1707741254273/loio224f0e792494418c8c4351fa75099a04_en-US/src/content/localization/en-us/e6f8da34eca84a32b936cf889689af47.xml" output-class="" current-file="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
 
 4.  Publish your theme in the UI theme designer.
 

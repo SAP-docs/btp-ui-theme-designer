@@ -10,7 +10,10 @@ Add custom LESS or CSS to make adjustments to your theme that are not possible b
 
 ## Prerequisites
 
-You have selected a theme as the base of your theme and an application for the preview.
+-   You have created a theme or selected an existing one and opened it for editing. For more information, see [Creating a New Theme](https://help.sap.com/viewer/7222ec8dc21b4616bb5fbb2ecb8570c3/Cloud/en-US/f987d5ffccd743cf88b0865c3bbbbe4f.html "Administrators create themes using the Create New Theme wizard in the UI theme designer.") :arrow_upper_right:.
+
+-   You have added preview pages and selected one of them. For more information, see [Adding Target Content](https://help.sap.com/viewer/7222ec8dc21b4616bb5fbb2ecb8570c3/Cloud/en-US/6f99f7f7dc844c8fb12430a6b2a9b7ce.html "Administrators add target content in order to preview any changes they make to the theme.") :arrow_upper_right:.
+
 
 > ### Note:  
 > Select the preview application for the UI technology for which you want to add custom CSS or LESS.
@@ -33,6 +36,8 @@ The following UI technologies support custom LESS and CSS:
 > 
 > -   Do not use custom CSS for changes that can be made using the parameters available in the *Quick*, *Detailed*, or *Expert* tab.
 > -   CSS or HTML structures of applications and UI technologies might change after upgrades or patches. If you use custom CSS for your theme, you should be prepared to make manual adjustments after an upgrade or patch.
+> 
+> -   If a preview page uses more than one technology, you get a dropdown menu to decide for which technology the custom LESS/CSS should be changed.
 
 
 

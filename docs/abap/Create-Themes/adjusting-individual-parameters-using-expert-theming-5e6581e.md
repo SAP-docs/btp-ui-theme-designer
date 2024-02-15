@@ -42,79 +42,59 @@ Expert theming allows a finer grain of changes than Quick theming, supporting bo
         <th valign="top">
 
         Category Icon
-
-
         
         </th>
         <th valign="top">
 
         Description
-
-
         
         </th>
         </tr>
         <tr>
         <td valign="top">
-
+        
         ![Show Colors Only](images/Show_Colors_Only_0aa8c11.png)
-
-
         
         </td>
         <td valign="top">
-
+        
         Shows parameters with color value.
-
-
         
         </td>
         </tr>
         <tr>
         <td valign="top">
-
+        
         ![Show Text Attributes Only](images/Show_Text_Attributes_Only_c718da5.png)
-
-
         
         </td>
         <td valign="top">
-
+        
         Shows parameters related to typography.
-
-
         
         </td>
         </tr>
         <tr>
         <td valign="top">
-
+        
         ![Show Dimensions Only](images/Show_Dimensions_Only_f6ab91b.png)
-
-
         
         </td>
         <td valign="top">
-
+        
         Shows parameters with dimension value \(em, px, pt, % etc\).
-
-
         
         </td>
         </tr>
         <tr>
         <td valign="top">
-
+        
         ![Show Images Only](images/Show_Images_Only_fdbb8a4.png)
-
-
         
         </td>
         <td valign="top">
-
+        
         Shows parameters representing an image.
-
-
         
         </td>
         </tr>
@@ -131,7 +111,7 @@ Expert theming allows a finer grain of changes than Quick theming, supporting bo
 
     -   Use the search input field to search for a string in the parameter name.
 
-        For example, enter the search string ***disabled*** to filter for all parameters that define the visual appearance of disabled controls.
+        For example, enter the search string `disabled` to filter for all parameters that define the visual appearance of disabled controls.
 
 
 3.  Change the parameter values according to your needs.

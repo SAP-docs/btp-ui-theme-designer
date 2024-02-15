@@ -35,5 +35,5 @@ Your themes are always based on SAP themes. If the SAP theme on which your theme
 ## Next Steps
 
 > ### Note:  
-> For important information about upgrading themes for SAP GUI for HTML and Web Dynpro ABAP apps, refer to SAP Note [2574997](https://launchpad.support.sap.com/#/notes/2574997).
+> For important information about upgrading themes for SAP GUI for HTML and Web Dynpro ABAP apps, refer to SAP Note [2574997](https://me.sap.com/notes/2574997).
 

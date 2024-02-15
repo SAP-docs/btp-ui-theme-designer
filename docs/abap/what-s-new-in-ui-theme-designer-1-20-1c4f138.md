@@ -8,7 +8,7 @@ Compared to version 1.16, UI theme designer 1.20 contains a list of new and chan
 
 ## Create Custom Themes Based on SAP Belize \(New\)
 
-A new SAP standard theme, SAP Belize, can be used to create custom themes for SAPUI5 and Unified Rendering technologies. The calm color tones help users to stay focused on daily business content. With clean and consistent layouts throughout the UI, SAP Belize conveys the content with clarity. Delightful details in microinteractions and typography are being added to make the Fiori user experience richer. For a list of restrictions, see SAP Note [2337350](https://launchpad.support.sap.com/#/notes/2337350).
+A new SAP standard theme, SAP Belize, can be used to create custom themes for SAPUI5 and Unified Rendering technologies. The calm color tones help users to stay focused on daily business content. With clean and consistent layouts throughout the UI, SAP Belize conveys the content with clarity. Delightful details in microinteractions and typography are being added to make the Fiori user experience richer. For a list of restrictions, see SAP Note [2337350](https://me.sap.com/notes/2337350).
 
 
 
@@ -16,7 +16,7 @@ A new SAP standard theme, SAP Belize, can be used to create custom themes for SA
 
 The theme SAP Blue Crystal is deprecated for SAPUI5 applications as of version 1.40. Therefore, custom themes based on SAP Blue Crystal need to be migrated to SAP Belize.
 
-See SAP Note [2329884](https://launchpad.support.sap.com/#/notes/2329884).
+See SAP Note [2329884](https://me.sap.com/notes/2329884).
 
 
 

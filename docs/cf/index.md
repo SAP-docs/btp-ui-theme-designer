@@ -37,7 +37,7 @@ UI Theme Designer Celeste 1.26
                 -   [Defining Color Parameters for Reuse](Create-Themes/defining-color-parameters-for-reuse-16ed37f.md)
                 -   [Changing the Main Parameters Using Quick Theming](Create-Themes/changing-the-main-parameters-using-quick-theming-e4d2a95.md)
                 -   [Adjusting Parameters Using Detailed Theming](Create-Themes/adjusting-parameters-using-detailed-theming-db09bb9.md)
-                -   [Adjusting Individual Parameters Using Detailed or Expert Theming](Create-Themes/adjusting-individual-parameters-using-detailed-or-expert-theming-7b01607.md)
+                -   [Adjusting Individual Parameters Using Expert Theming](Create-Themes/adjusting-individual-parameters-using-expert-theming-7b01607.md)
                     -   [Finding the Relevant Expert Parameters \(Experimental\)](Create-Themes/finding-the-relevant-expert-parameters-experimental-0980cc6.md)
                 -   [Adding Custom LESS and CSS](Create-Themes/adding-custom-less-and-css-895a4b0.md)
                 -   [Inserting Images](Create-Themes/inserting-images-047e630.md)
@@ -65,6 +65,7 @@ UI Theme Designer Celeste 1.26
         -   [Auditing and Logging Information](Security/auditing-and-logging-information-5eeab0e.md)
         -   [Authentication](Security/authentication-ecda6c0.md)
         -   [Content Security Policy](Security/content-security-policy-b07600d.md)
+        -   [Rate Limitation](Security/rate-limitation-12e1b87.md)
     -   [Monitoring and Troubleshooting](monitoring-and-troubleshooting-6736ce0.md)
     -   [Accessibility Features in UI Theme Designer](accessibility-features-in-ui-theme-designer-71f3184.md)
 

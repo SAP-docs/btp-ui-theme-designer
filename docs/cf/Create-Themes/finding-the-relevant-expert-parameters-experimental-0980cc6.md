@@ -29,13 +29,13 @@ With the CSS search option in the Expert tab, you can search for parameters used
 
     The developer tools open and display the CSS rules that apply to the selected UI element.
 
-4.  Copy a CSS rule from the developer tools window \(for example, ***.urBtnStd***\).
-5.  In the search field of the Expert tab, enter the search operator ***css:*** followed by the CSS rule you just copied \(for example, ***css: .urBtnStd***\).
+4.  Copy a CSS rule from the developer tools window \(for example, `.urBtnStd`\).
+5.  In the search field of the Expert tab, enter the search operator `css:` followed by the CSS rule you just copied \(for example, `css: .urBtnStd`\).
 
-    All parameters assigned to CSS rules which contain ***.urBtnStd*** are displayed in the parameter list.
+    All parameters assigned to CSS rules which contain `.urBtnStd` are displayed in the parameter list.
 
     > ### Note:  
-    > To perform an exact search, you enclose the search term in quotes \(for example, ***css: ".urBtnStd"***\). In this case, all parameters assigned to the specified CSS rule are displayed in the parameter list.
+    > To perform an exact search, you enclose the search term in quotes \(for example, `css: ".urBtnStd"`\). In this case, all parameters assigned to the specified CSS rule are displayed in the parameter list.
 
 
 

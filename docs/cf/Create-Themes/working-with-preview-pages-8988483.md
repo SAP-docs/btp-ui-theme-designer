@@ -10,7 +10,7 @@ With preview pages added to the UI theme designer editor, you can see what the c
 
 ## Prerequisite
 
--   You have created a theme and opened it for editing. For more information, see [Creating a New Theme](creating-a-new-theme-72c730b.md).
+-   You have created a theme or selected an existing one and opened it for editing. For more information, see [Creating a New Theme](creating-a-new-theme-72c730b.md).
 
 -   You have added preview pages and selected one of them. For more information, see [Adding Preview Pages](adding-preview-pages-8af60d3.md).
 

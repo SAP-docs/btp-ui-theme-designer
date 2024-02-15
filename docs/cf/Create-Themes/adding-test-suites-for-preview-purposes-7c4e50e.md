@@ -19,14 +19,10 @@ You can select from the predefined set of preview pages depending on your themin
 
 To do this...
 
-
-
 </th>
 <th valign="top">
 
 Try these *Test Suites*
-
-
 
 </th>
 </tr>
@@ -35,14 +31,10 @@ Try these *Test Suites*
 
 I want to theme the SAP Fiori Launchpad
 
-
-
 </td>
 <td valign="top">
 
 *SAPUI5 Control Previews* \> *Shell, Tiles and Cards* is a good choice.
-
-
 
 </td>
 </tr>
@@ -51,14 +43,10 @@ I want to theme the SAP Fiori Launchpad
 
 I want to theme only SAPUI5 applications
 
-
-
 </td>
 <td valign="top">
 
 Choose the preview pages in the test suites*SAPUI5 Control Previews* and *SAPUI5 Application Previews*.
-
-
 
 </td>
 </tr>
@@ -67,14 +55,10 @@ Choose the preview pages in the test suites*SAPUI5 Control Previews* and *SAPUI5
 
 I want to change some main colors in *Quick Theming*, and check which controls are affected
 
-
-
 </td>
 <td valign="top">
 
 We recommend to start with *SAPUI5 Control Previews* \> *Shell, Tiles and Cards*, and the *SAPUI5 Application Previews* \> *Quick Theming*.
-
-
 
 </td>
 </tr>
@@ -83,14 +67,10 @@ We recommend to start with *SAPUI5 Control Previews* \> *Shell, Tiles and Cards*
 
 I want to do some control-specific theming
 
-
-
 </td>
 <td valign="top">
 
 Select some of the control-specific preview pages in the *Controls* test suite of a SAP UI technology.
-
-
 
 </td>
 </tr>

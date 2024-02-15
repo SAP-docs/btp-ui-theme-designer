@@ -6,7 +6,7 @@ To ensure compatibility, themes must be upgraded when the technology version cha
 
 The CSS files of a custom theme only work for the SAPUI5 version for which the theme was built when it was exported from the UI theme designer. In SAP BTP, SAPUI5 is automatically upgraded once a new version is available, and this might result in unexpected display of your theme. Therefore, if the version of a UI technology has changed, you will need to rebuild your custom themes to ensure that they work properly.
 
-See SAP Notes [2140280](https://launchpad.support.sap.com/#/notes/2140280) and [2119552](https://launchpad.support.sap.com/#/notes/2119552).
+See SAP Notes [2140280](https://me.sap.com/notes/2140280) and [2119552](https://me.sap.com/notes/2119552).
 
 
 

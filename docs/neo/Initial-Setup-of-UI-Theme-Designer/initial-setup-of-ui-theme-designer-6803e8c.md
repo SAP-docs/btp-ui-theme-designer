@@ -15,25 +15,19 @@ To use the UI theme designer, administrators must implement some initial configu
 <tr>
 <td valign="top">
 
- ![](images/Checkmark_for_prerequisites_9c08d00.png) 
-
-
+![](images/Checkmark_for_prerequisites_9c08d00.png)
 
 </td>
 <td valign="top">
 
 You already have an SAP BTP subaccount
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
- ![](images/Checkmark_for_prerequisites_9c08d00.png) 
-
-
+![](images/Checkmark_for_prerequisites_9c08d00.png)
 
 </td>
 <td valign="top">
@@ -50,32 +44,24 @@ The *UI Theme Designer* service is enabled in the SAP BTP cockpit.
 <tr>
 <td valign="top">
 
- ![](images/Checkmark_for_prerequisites_9c08d00.png) 
-
-
+![](images/Checkmark_for_prerequisites_9c08d00.png)
 
 </td>
 <td valign="top">
 
 You have assigned the role and permissions to all users who need to access the UI theme designer.
 
-
-
 </td>
 </tr>
 <tr>
 <td valign="top">
 
- ![](images/Checkmark_for_prerequisites_9c08d00.png) 
-
-
+![](images/Checkmark_for_prerequisites_9c08d00.png)
 
 </td>
 <td valign="top">
 
 When using a custom IDP, you have configured the Identity Provider \(IDP\) to access the UI theme designer by mapping SAML attributes from the IDP to your SAP BTP subaccount.
-
-
 
 </td>
 </tr>

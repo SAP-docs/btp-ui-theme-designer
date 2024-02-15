@@ -28,35 +28,27 @@ Let's get started.
     <table>
     <tr>
     <td valign="top">
-
-     `path` parameter
-
-
+    
+    `path` parameter
     
     </td>
     <td valign="top">
-
+    
     Enter an application path to be mapped.
 
     This path can then be referenced in a URL parameter or in the SAPUI5 bootstrap configuration. See below.
-
-
     
     </td>
     </tr>
     <tr>
     <td valign="top">
-
-     `name` parameter
-
-
+    
+    `name` parameter
     
     </td>
     <td valign="top">
-
+    
     Enter the name of the application storing your theme data.
-
-
     
     </td>
     </tr>

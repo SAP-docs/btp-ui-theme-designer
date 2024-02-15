@@ -18,44 +18,34 @@ To save your theme, proceed with the following steps:
     <th valign="top">
 
     Parameter
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     <th valign="top">
 
     Values
-
-
     
     </th>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Theme ID
-
-
     
     </td>
     <td valign="top">
-
+    
     The ID that applications reference in order to use the theme.
-
-
     
     </td>
     <td valign="top">
-
+    
     -   Only alphanumeric characters and underscores are allowed.
-    -   Must not start with ***SAP***.
+    -   Must not start with `SAP`.
     -   Must not start with a number
     -   No special characters
     -   Must not contain dashes
@@ -66,93 +56,69 @@ To save your theme, proceed with the following steps:
     </tr>
     <tr>
     <td valign="top">
-
+    
     Title
-
-
     
     </td>
     <td valign="top">
-
+    
     \(Optional\) The theme name that is displayed in the theme list on the start screen.
-
-
     
     </td>
     <td valign="top">
-
-    Must not start with ***"SAP"***.
-
-
+    
+    Must not start with `"SAP"`.
     
     </td>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Vendor
-
-
     
     </td>
     <td valign="top">
-
+    
     \(Optional\) The name of the company that acts as the vendor of the theme.
-
-
     
     </td>
     <td valign="top">
-
-    Must not start with ***"SAP"***.
-
-
+    
+    Must not start with `"SAP"`.
     
     </td>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Fallback Theme ID
-
-
     
     </td>
     <td valign="top">
-
+    
     \(Optional\) The ID of a theme which is used if the current theme isn't available in the UI framework.
-
-
     
     </td>
     <td valign="top">
-
+    
     The ID of an existing theme
-
-
     
     </td>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Support RTL
-
-
     
     </td>
     <td valign="top">
-
+    
     \(Optional\) Mark this checkbox if your theme also supports RTL languages.
-
-
     
     </td>
     <td valign="top">
-
+    
      
-
-
     
     </td>
     </tr>

@@ -6,6 +6,17 @@ Use the palette to define a set of color parameters for reuse.
 
 
 
+<a name="copyb6848c5795094eaaa402e2beb2a375d3__prereq_ycq_th3_3yb"/>
+
+## Prerequisites
+
+-   You have created a theme or selected an existing one and opened it for editing. For more information, see [Creating a New Theme](creating-a-new-theme-f987d5f.md).
+
+-   You have added preview pages and selected one of them. For more information, see [Adding Target Content](adding-target-content-6f99f7f.md).
+
+
+
+
 ## Procedure
 
 1.  On top of the side panel on the right, choose *Palette*.

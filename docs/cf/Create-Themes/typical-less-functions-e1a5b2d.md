@@ -15,14 +15,10 @@ The following is a list of typical LESS functions for colors.
 
 LESS Function
 
-
-
 </th>
 <th valign="top">
 
 Description
-
-
 
 </th>
 </tr>
@@ -31,14 +27,10 @@ Description
 
 saturate\(@color, 10%\);
 
-
-
 </td>
 <td valign="top">
 
 Returns a color 10% points more saturated
-
-
 
 </td>
 </tr>
@@ -47,14 +39,10 @@ Returns a color 10% points more saturated
 
 desaturate\(@color, 10%\);
 
-
-
 </td>
 <td valign="top">
 
 Returns a color 10% points less saturated
-
-
 
 </td>
 </tr>
@@ -63,14 +51,10 @@ Returns a color 10% points less saturated
 
 lighten\(@color, 10%\);
 
-
-
 </td>
 <td valign="top">
 
 Returns a color 10% points lighter
-
-
 
 </td>
 </tr>
@@ -79,14 +63,10 @@ Returns a color 10% points lighter
 
 darken\(@color, 10%\);
 
-
-
 </td>
 <td valign="top">
 
 Returns a color 10% points darker
-
-
 
 </td>
 </tr>
@@ -95,14 +75,10 @@ Returns a color 10% points darker
 
 fade\(@color, 50%\);
 
-
-
 </td>
 <td valign="top">
 
 Returns @color with 50% transparency
-
-
 
 </td>
 </tr>
@@ -111,14 +87,10 @@ Returns @color with 50% transparency
 
 spin\(@color, 10\);
 
-
-
 </td>
 <td valign="top">
 
 Returns a color with a 10 degree larger in hue
-
-
 
 </td>
 </tr>
@@ -127,14 +99,10 @@ Returns a color with a 10 degree larger in hue
 
 mix\(@color1, @color2, \[@weight: 50%\]\);
 
-
-
 </td>
 <td valign="top">
 
 Returns a mix of @color1 and @color2
-
-
 
 </td>
 </tr>
@@ -143,14 +111,10 @@ Returns a mix of @color1 and @color2
 
 greyscale\(@color\);
 
-
-
 </td>
 <td valign="top">
 
 Returns a grey, 100% desaturated color
-
-
 
 </td>
 </tr>
@@ -159,14 +123,10 @@ Returns a grey, 100% desaturated color
 
 contrast\(@color1, \[@darkcolor: black\], \[@lightcolor: white\], \[@threshold: 43%\]\);
 
-
-
 </td>
 <td valign="top">
 
 Returns @darkcolor if @color1 is \> 43% luma \(perceptual brightness\), otherwise returns @lightcolor
-
-
 
 </td>
 </tr>

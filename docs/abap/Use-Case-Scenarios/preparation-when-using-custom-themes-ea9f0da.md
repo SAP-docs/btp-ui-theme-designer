@@ -24,44 +24,34 @@ This set up is for a system where only custom themes are used. The custom themes
     <th valign="top">
 
     Parameter Name
-
-
     
     </th>
     <th valign="top">
 
     Required Value
-
-
     
     </th>
     </tr>
     <tr>
     <td valign="top">
-
+    
     `wdisp/add_client_protocol_header`
-
-
     
     </td>
     <td valign="top">
-
+    
     `true`
-
-
     
     </td>
     </tr>
     <tr>
     <td valign="top">
-
+    
     `wdisp/handle_webdisp_ap_header`
-
-
     
     </td>
     <td valign="top">
-
+    
     -   `1`
     -   `2`
 
@@ -71,8 +61,8 @@ This set up is for a system where only custom themes are used. The custom themes
     </tr>
     </table>
     
-    For more information, open SAP Help Portal at [http://help.sap.com](http://help.sap.com) and search for ***SAP Web Dispatcher Parameters - Reference***.
+    For more information, open SAP Help Portal at [http://help.sap.com](http://help.sap.com) and search for `SAP Web Dispatcher Parameters - Reference`.
 
-    Also see SAP Note [2037174](https://launchpad.support.sap.com/#/notes/2037174).
+    Also see SAP Note [2037174](https://me.sap.com/notes/2037174).
 
 

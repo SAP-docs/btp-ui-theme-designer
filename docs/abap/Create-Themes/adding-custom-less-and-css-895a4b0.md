@@ -10,7 +10,10 @@ Add custom LESS or CSS to make adjustments to your theme that are not possible b
 
 ## Prerequisites
 
-You have selected a theme as the base of your theme and an application for the preview.
+-   You have created a theme or selected an existing one and opened it for editing. For more information, see  <?sap-ot O2O class="- topic/xref " href="72c730b60f6b41b0bfed63b474007b51.xml" text="" desc="" xtrc="xref:1" xtrf="file:/home/builder/src/dita-all/ylx1673875864142/loio6e2d9e0fb80d4d788707c20ca8ff4bd9_en-US/src/content/localization/en-us/895a4b03cf664b79976d12f019c68b12.xml" output-class="" current-file="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
+
+-   You have added preview pages and selected one of them. For more information, see  <?sap-ot O2O class="- topic/xref " href="8af60d39007a4847919f8dcbbb7a7b16.xml" text="" desc="" xtrc="xref:2" xtrf="file:/home/builder/src/dita-all/ylx1673875864142/loio6e2d9e0fb80d4d788707c20ca8ff4bd9_en-US/src/content/localization/en-us/895a4b03cf664b79976d12f019c68b12.xml" output-class="" current-file="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
+
 
 > ### Note:  
 > Select the preview application for the UI technology for which you want to add custom CSS or LESS.
@@ -33,6 +36,8 @@ The following UI technologies support custom LESS and CSS:
 > 
 > -   Do not use custom CSS for changes that can be made using the parameters available in the *Quick*, *Detailed*, or *Expert* tab.
 > -   CSS or HTML structures of applications and UI technologies might change after upgrades or patches. If you use custom CSS for your theme, you should be prepared to make manual adjustments after an upgrade or patch.
+> 
+> -   If a preview page uses more than one technology, you get a dropdown menu to decide for which technology the custom LESS/CSS should be changed.
 
 
 

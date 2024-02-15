@@ -29,46 +29,36 @@ In order for the theme to be applied to an application, the CSS files have to be
     <th valign="top">
 
     Parameter
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     <th valign="top">
 
     Values
-
-
     
     </th>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Theme ID
-
-
     
     </td>
     <td valign="top">
-
+    
     The ID that applications reference in order to use the theme, for example using the `sap-theme` URL parameter.
 
     For more information, see [Applying Custom Themes to Standalone Apps](../Use-Case-Scenarios/applying-custom-themes-to-standalone-apps-e6ede69.md).
-
-
     
     </td>
     <td valign="top">
-
+    
     -   Only alphanumeric characters are allowed.
-    -   Must not start with ***"SAP"***.
+    -   Must not start with `"SAP"`.
 
 
     
@@ -76,51 +66,39 @@ In order for the theme to be applied to an application, the CSS files have to be
     </tr>
     <tr>
     <td valign="top">
-
+    
     Title
-
-
     
     </td>
     <td valign="top">
-
+    
     \(Optional\)
 
     The theme name that will be displayed in the theme list on the start screen after the theme.
-
-
     
     </td>
     <td valign="top">
-
-    Must not start with ***"SAP"***.
-
-
+    
+    Must not start with `"SAP"`.
     
     </td>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Vendor
-
-
     
     </td>
     <td valign="top">
-
+    
     \(Optional\)
 
     The name of the company that acts as the vendor of the theme.
-
-
     
     </td>
     <td valign="top">
-
-    Must not start with ***"SAP"***.
-
-
+    
+    Must not start with `"SAP"`.
     
     </td>
     </tr>

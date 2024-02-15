@@ -17,14 +17,10 @@ Find out how you can get support from SAP for the UI Theme Designer.
 
 Where can I find a history of all delivered UI theme designer versions?
 
-
-
 </td>
 <td valign="top">
 
 See [SAP Community](https://community.sap.com/topics/ui-theme-designer).
-
-
 
 </td>
 </tr>
@@ -33,14 +29,10 @@ See [SAP Community](https://community.sap.com/topics/ui-theme-designer).
 
 Where can I find more information on the UI theme designer?
 
-
-
 </td>
 <td valign="top">
 
 See [SAP Community](https://community.sap.com/topics/ui-theme-designer).
-
-
 
 </td>
 </tr>
@@ -49,14 +41,10 @@ See [SAP Community](https://community.sap.com/topics/ui-theme-designer).
 
 Where can I discuss issues with others or provide feedback on the UI theme designer?
 
-
-
 </td>
 <td valign="top">
 
- [SAP Community](https://community.sap.com/topics/ui-theme-designer) provides a community for UI theme designer and related issues.
-
-
+[SAP Community](https://community.sap.com/topics/ui-theme-designer) provides a community for UI theme designer and related issues.
 
 </td>
 </tr>
@@ -64,8 +52,6 @@ Where can I discuss issues with others or provide feedback on the UI theme desig
 <td valign="top">
 
 How can I create a support issue on themes or the UI theme designer?
-
-
 
 </td>
 <td valign="top">
@@ -85,8 +71,6 @@ If you cant find a solution on SCN, create a support message on the SAP Support 
 
 Which features are covered by SAP support?
 
-
-
 </td>
 <td valign="top">
 
@@ -96,8 +80,6 @@ Restrictions may apply in the documentation or are displayed in the UI theme des
 
 Support needs to be requested via the SAP Support Portal using the correct component \(see above\).
 
-
-
 </td>
 </tr>
 <tr>
@@ -105,16 +87,12 @@ Support needs to be requested via the SAP Support Portal using the correct compo
 
 Which features are **not** covered by SAP support?
 
-
-
 </td>
 <td valign="top">
 
 Theme changes performed outside the UI theme designer are not supported.
 
 The use of custom CSS is without any support. Applications using themes containing custom CSS are susceptible to breaking due to changes to the applications or the UI technologies used. After an upgrade, custom CSS must be checked and maintained by the customer.
-
-
 
 </td>
 </tr>

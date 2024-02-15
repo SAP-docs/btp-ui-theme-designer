@@ -14,7 +14,7 @@ Administrators can run a custom theme via a SAPUI5 bootstrap configuration.
 
 -   You have added a route to the theming service.
 
-    For more information, see .
+    For more information, see  <?sap-ot O2O class="- topic/xref " href="5349b83e9ce547d5804acfb9824a9274.xml" text="" desc="" xtrc="xref:1" xtrf="file:/home/builder/src/dita-all/kte1707741254273/loio0b1c0667f49744caaa87d02130d4ac5d_en-US/src/content/localization/en-us/80642ec6cc3c4b7cb840e17dfec8fd8d.xml" output-class="" current-file="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
 
 
 You can hardcode your custom theme as an initial theme in the HTML script tag of an SAPUI5 application as follows:
@@ -41,12 +41,12 @@ You can hardcode your custom theme as an initial theme in the HTML script tag of
 
         -   `<theme_id>` is the ID you provided when creating the theme.
 
-        -   `<path>` is the theming service path you used for your mapping in the application router file of the theming service. For more information, see .
+        -   `<path>` is the theming service path you used for your mapping in the application router file of the theming service. For more information, see  <?sap-ot O2O class="- topic/xref " href="5349b83e9ce547d5804acfb9824a9274.xml" text="" desc="" xtrc="xref:2" xtrf="file:/home/builder/src/dita-all/kte1707741254273/loio0b1c0667f49744caaa87d02130d4ac5d_en-US/src/content/localization/en-us/80642ec6cc3c4b7cb840e17dfec8fd8d.xml" output-class="" current-file="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
 
 
     -   `data-sap-ui-resourceroots` enter the following
 
-        `data-sap-ui-resourceroots='{"<appName>": "/"}`
+        `data-sap-ui-resourceroots='{"<appName>": "."}`
 
         where `<appName>` is your business application used for binding a UI theme designer instance to the app router module.
 
@@ -58,7 +58,7 @@ You can hardcode your custom theme as an initial theme in the HTML script tag of
     >           data-sap-ui-versionedLibCss="true"                                              
     >           data-sap-ui-theme="custom1belize"                                                                                                                                          
     >           data-sap-ui-theme-roots='{"custom1belize" : "/themes/themeroot/v1/UI5/"}'
-    >           data-sap-ui-resourceroots='{"<appName>": "/"}'>
+    >           data-sap-ui-resourceroots='{"<appName>": "."}'>
     >          </script> 
     > ```
 

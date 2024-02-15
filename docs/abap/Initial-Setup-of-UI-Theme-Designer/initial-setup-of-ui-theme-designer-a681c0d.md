@@ -8,7 +8,7 @@ To use the UI theme designer, administrators must implement some initial configu
 
 ## SAP Notes
 
-Implement SAP note [1852401](https://launchpad.support.sap.com/#/notes/1852401).
+Implement SAP note [1852401](https://me.sap.com/notes/1852401).
 
 
 

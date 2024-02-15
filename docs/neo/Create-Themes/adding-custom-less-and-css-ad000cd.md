@@ -10,7 +10,10 @@ Add custom LESS or CSS to make adjustments to your theme that are not possible b
 
 ## Prerequisites
 
-You have selected a theme as the base of your theme and an application for the preview.
+-   You have created a theme or selected an existing one and opened it for editing. For more information, see [Creating a New Theme](creating-a-new-theme-f987d5f.md).
+
+-   You have added preview pages and selected one of them. For more information, see [Adding Target Content](adding-target-content-6f99f7f.md).
+
 
 > ### Note:  
 > Select the preview application for the UI technology for which you want to add custom CSS or LESS.
@@ -33,6 +36,8 @@ The following UI technologies support custom LESS and CSS:
 > 
 > -   Do not use custom CSS for changes that can be made using the parameters available in the *Quick*, *Detailed*, or *Expert* tab.
 > -   CSS or HTML structures of applications and UI technologies might change after upgrades or patches. If you use custom CSS for your theme, you should be prepared to make manual adjustments after an upgrade or patch.
+> 
+> -   If a preview page uses more than one technology, you get a dropdown menu to decide for which technology the custom LESS/CSS should be changed.
 
 
 

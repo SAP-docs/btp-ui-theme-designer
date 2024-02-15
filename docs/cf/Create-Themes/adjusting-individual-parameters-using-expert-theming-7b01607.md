@@ -1,18 +1,19 @@
 <!-- loio7b01607cb9564f6d94087a6db995c350 -->
 
-# Adjusting Individual Parameters Using Detailed or Expert Theming
+# Adjusting Individual Parameters Using Expert Theming
 
 If you want to change more than the *Quick* or *Detailed* panels could offer, you can use expert theming to make fine-tuned adjustments to your theme.
 
 
 
-<a name="loio7b01607cb9564f6d94087a6db995c350__prereq_N10015_N10012_N10001"/>
+<a name="loio7b01607cb9564f6d94087a6db995c350__prereq_ycq_th3_3yb"/>
 
 ## Prerequisites
 
-You have selected a theme as the base of your theme and an application for the preview.
+-   You have created a theme or selected an existing one and opened it for editing. For more information, see [Creating a New Theme](creating-a-new-theme-72c730b.md).
 
-See [Creating a New Theme](creating-a-new-theme-72c730b.md) and [Adding Preview Pages](adding-preview-pages-8af60d3.md).
+-   You have added preview pages and selected one of them. For more information, see [Adding Preview Pages](adding-preview-pages-8af60d3.md).
+
 
 
 
@@ -46,79 +47,59 @@ These parameters can influence many elements if they are very generic \(e.g. the
         <th valign="top">
 
         Category Icon
-
-
         
         </th>
         <th valign="top">
 
         Description
-
-
         
         </th>
         </tr>
         <tr>
         <td valign="top">
-
+        
         ![Show Colors Only](images/Show_Colors_Only_0aa8c11.png)
-
-
         
         </td>
         <td valign="top">
-
+        
         Shows parameters with color value.
-
-
         
         </td>
         </tr>
         <tr>
         <td valign="top">
-
+        
         ![Show Text Attributes Only](images/Show_Text_Attributes_Only_c718da5.png)
-
-
         
         </td>
         <td valign="top">
-
+        
         Shows parameters related to typography.
-
-
         
         </td>
         </tr>
         <tr>
         <td valign="top">
-
+        
         ![Show Dimensions Only](images/Show_Dimensions_Only_f6ab91b.png)
-
-
         
         </td>
         <td valign="top">
-
+        
         Shows parameters with dimension value \(em, px, pt, % etc.\).
-
-
         
         </td>
         </tr>
         <tr>
         <td valign="top">
-
+        
         ![Show Images Only](images/Show_Images_Only_fdbb8a4.png)
-
-
         
         </td>
         <td valign="top">
-
+        
         Shows parameters representing an image.
-
-
         
         </td>
         </tr>
@@ -135,7 +116,7 @@ These parameters can influence many elements if they are very generic \(e.g. the
 
     -   Use the search input field to search for a string in the parameter name.
 
-        For example, enter the search string ***disabled*** to filter for all parameters that define the visual appearance of disabled controls.
+        For example, enter the search string `disabled` to filter for all parameters that define the visual appearance of disabled controls.
 
     -   You can find more possibilities to find the relevant parameters in [Finding the Relevant Expert Parameters \(Experimental\)](finding-the-relevant-expert-parameters-experimental-0980cc6.md).
 

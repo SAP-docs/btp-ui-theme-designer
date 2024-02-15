@@ -41,14 +41,10 @@ Please use the following component for your incident:
 
 Component Name
 
-
-
 </th>
 <th valign="top">
 
 Component Description
-
-
 
 </th>
 </tr>
@@ -57,14 +53,10 @@ Component Description
 
 CA-UI2-THD
 
-
-
 </td>
 <td valign="top">
 
 UI Theme Designer
-
-
 
 </td>
 </tr>

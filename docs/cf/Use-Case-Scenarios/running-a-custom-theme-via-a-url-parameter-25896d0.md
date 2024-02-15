@@ -31,7 +31,7 @@ To run SAPUI5 applications with a custom theme, you can use the URL parameter `s
 
     Where:
 
-    -    `<themeID>` is the ID you provided when you created the theme.
+    -   `<themeID>` is the ID you provided when you created the theme.
     -   `<path>` is the theming service path you used for your mapping.
 
         For more information, see [Applying Custom Themes to SAPUI5 Apps](applying-custom-themes-to-sapui5-apps-eeb654b.md).

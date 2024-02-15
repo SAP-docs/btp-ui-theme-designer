@@ -48,7 +48,7 @@ Changed parameters are stored in the custom theme. In the theme build process, t
 
 Since custom themes only store the custom changes, future updates to the base themes will propagate to the custom theme parameters that have not been changed.
 
- ![](images/Theming_graphic_b25a4e2.png) 
+![](images/Theming_graphic_b25a4e2.png)
 
 **Related Information**  
 

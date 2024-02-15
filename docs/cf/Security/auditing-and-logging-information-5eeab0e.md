@@ -13,28 +13,20 @@ Here you can find a list of the security events that are logged by UI theme desi
 
 Event grouping
 
-
-
 </th>
 <th valign="top">
 
 What events are logged
-
-
 
 </th>
 <th valign="top">
 
 How to identify related log events
 
-
-
 </th>
 <th valign="top">
 
 Additional information
-
-
 
 </th>
 </tr>
@@ -43,14 +35,10 @@ Additional information
 
 General
 
-
-
 </td>
 <td valign="top">
 
 Activate, change, and delete a theme
-
-
 
 </td>
 <td valign="top">
@@ -60,8 +48,6 @@ Activate, change, and delete a theme
 **ThemeDesigner**: change theme
 
 **ThemeDesigner**: delete theme
-
-
 
 </td>
 <td valign="top">
@@ -75,14 +61,10 @@ Activate, change, and delete a theme
 
 Configuration related events
 
-
-
 </td>
 <td valign="top">
 
 Create and delete an Admin-UI Configuraton
-
-
 
 </td>
 <td valign="top">
@@ -91,14 +73,10 @@ Create and delete an Admin-UI Configuraton
 
 **ThemeDesigner**: delete configuration
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -107,14 +85,10 @@ Create and delete an Admin-UI Configuraton
 
 Repository related events
 
-
-
 </td>
 <td valign="top">
 
 Create and delete a Tenant Repository
-
-
 
 </td>
 <td valign="top">
@@ -123,14 +97,10 @@ ThemeDesigner: Create Tenant Repository
 
 ThemeDesigner: Delete Tennant Repository
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -139,14 +109,10 @@ ThemeDesigner: Delete Tennant Repository
 
 Tenant related events
 
-
-
 </td>
 <td valign="top">
 
 Subscribe and unsubscribe to applications and instances
-
-
 
 </td>
 <td valign="top">
@@ -159,14 +125,10 @@ Subscribe and unsubscribe to applications and instances
 
 **ThemeDesigner**: Tenant subscription \(Unsubscribe instance\)
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>
@@ -175,14 +137,10 @@ Subscribe and unsubscribe to applications and instances
 
 Backup related events
 
-
-
 </td>
 <td valign="top">
 
 Read and write Backups
-
-
 
 </td>
 <td valign="top">
@@ -191,14 +149,10 @@ Read and write Backups
 
 **Themedesigner**: write Backup
 
-
-
 </td>
 <td valign="top">
 
  
-
-
 
 </td>
 </tr>

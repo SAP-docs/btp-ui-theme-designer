@@ -30,6 +30,8 @@ To detect a valid theme for an application, the fallback mechanism performs the 
 
 
 
+## Example
+
 -   **Case 1: No Fallback**
 
     A custom theme \(`Custom Tradeshow 1`\) based on the SAP standard theme SAP Tradeshow is configured to be used for Portal pages. A custom theme \(`Custom Blue Crystal`\) based on SAP Blue Crystal is configured as its fallback theme.

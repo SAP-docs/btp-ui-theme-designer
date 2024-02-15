@@ -59,16 +59,12 @@ To get an impression of how UI theme designer helps you provide a seamless and d
 <tr>
 <th valign="top">
 
- **SAP UI client or technology** 
-
-
+**SAP UI client or technology** 
 
 </th>
 <th valign="top">
 
- **UI parts that can be themed** 
-
-
+**UI parts that can be themed** 
 
 </th>
 </tr>
@@ -76,8 +72,6 @@ To get an impression of how UI theme designer helps you provide a seamless and d
 <td valign="top">
 
 Web Dynpro ABAP
-
-
 
 </td>
 <td valign="top">
@@ -98,8 +92,6 @@ BusinessGraphics
 
 You can only consume themes created with the UI theme designer for Web Dynpro ABAP applications as of SAP NetWeaver 7.0 EHP2.
 
-
-
 </td>
 </tr>
 <tr>
@@ -107,14 +99,10 @@ You can only consume themes created with the UI theme designer for Web Dynpro AB
 
 Floorplan Manager for Web Dynpro ABAP \(FPM\)
 
-
-
 </td>
 <td valign="top">
 
 You can theme applications that do not use HTMLIslands or Chart UIBBs.
-
-
 
 </td>
 </tr>
@@ -123,14 +111,10 @@ You can theme applications that do not use HTMLIslands or Chart UIBBs.
 
 SAPUI5
 
-
-
 </td>
 <td valign="top">
 
 You can theme SAP standard libraries. Custom SAPUI5 libraries cannot be themed.
-
-
 
 </td>
 </tr>
@@ -138,8 +122,6 @@ You can theme SAP standard libraries. Custom SAPUI5 libraries cannot be themed.
 <td valign="top">
 
 SAP Business Client \(NWBC\)
-
-
 
 </td>
 <td valign="top">

@@ -35,7 +35,7 @@ To run SAPUI5, Web Dynpro ABAP, or SAP GUI for HTML applications with a custom t
     -   `<client>` is the SAP client where the theme is saved.
 
 
-    For more information, see SAP Note [2043817](https://launchpad.support.sap.com/#/notes/2043817) 
+    For more information, see SAP Note [2043817](https://me.sap.com/notes/2043817) 
 
     > ### Note:  
     > To consume a theme from a different host, use`theme=<themeID>@<protocol>://<hostname>:<port>/sap/public/bc/themes/~client-<client>`

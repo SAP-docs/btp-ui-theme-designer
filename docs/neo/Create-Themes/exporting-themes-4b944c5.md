@@ -20,44 +20,34 @@ Administrators use the export function to download themes as zip files from the 
     <th valign="top">
 
     Parameter
-
-
     
     </th>
     <th valign="top">
 
     Description
-
-
     
     </th>
     <th valign="top">
 
     Values
-
-
     
     </th>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Theme ID
-
-
     
     </td>
     <td valign="top">
-
+    
     The ID that applications can reference to invoke the theme.
-
-
     
     </td>
     <td valign="top">
-
+    
     -   Use only alphanumeric characters.
-    -   Don't start with ***SAP***.
+    -   Don't start with `SAP`.
     -   Don't use numbers, special characters, or dashes
 
 
@@ -66,70 +56,52 @@ Administrators use the export function to download themes as zip files from the 
     </tr>
     <tr>
     <td valign="top">
-
+    
     Title
-
-
     
     </td>
     <td valign="top">
-
+    
     The theme name that is displayed in the theme list on the welcome screen.
-
-
     
     </td>
     <td valign="top">
-
-    Don't start with ***"SAP"***.
-
-
+    
+    Don't start with `"SAP"`.
     
     </td>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Vendor \(Optional\)
-
-
     
     </td>
     <td valign="top">
-
+    
     The name of the company that acts as the vendor of the theme.
-
-
     
     </td>
     <td valign="top">
-
-    Must not start with ***"SAP"***.
-
-
+    
+    Must not start with `"SAP"`.
     
     </td>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Support RTL \(Optional\)
-
-
     
     </td>
     <td valign="top">
-
+    
     Right-to-left languages, such as Hebrew and Arabic, require different stylesheets and images than left-to-right \(LTR\) languages.
-
-
     
     </td>
     <td valign="top">
-
+    
     Select this field to create stylesheets for both LTR and RTL languages.
-
-
     
     </td>
     </tr>
@@ -143,67 +115,51 @@ Administrators use the export function to download themes as zip files from the 
     <th valign="top">
 
     Option
-
-
     
     </th>
     <th valign="top">
 
     Use-Case Description
-
-
     
     </th>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Source files only \(Default\)
-
-
     
     </td>
     <td valign="top">
-
+    
     To transport a theme to another system, only the source files are strictly necessary to rebuild the theme on the target system.
 
     You should use this option only if you want to transport the source files and do not want to use the CSS files at runtime. If you want to use such an exported theme at runtime you have to rebuild the theme on the target system.
-
-
     
     </td>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Source files + CSS resources
-
-
     
     </td>
     <td valign="top">
-
+    
     Use this option if the theme is to be deployed directly to the runtime \(the required CSS files are also included\).
-
-
     
     </td>
     </tr>
     <tr>
     <td valign="top">
-
+    
     Source files + CSS resources + base theme resources
-
-
     
     </td>
     <td valign="top">
-
+    
     Use this option to download the zip file from an SAP BTP subaccount to somewhere outside of SAP BTP.
 
     For example, to export to a non-SAP platform or to an SAP platform that doesn't support the theme repository.
-
-
     
     </td>
     </tr>

@@ -6,6 +6,17 @@ You can add your own icons and images to your theme by uploading them or specify
 
 
 
+<a name="copy9fc64f4a9ac8405e88de569b65603cbd__prereq_ycq_th3_3yb"/>
+
+## Prerequisites
+
+-   You have created a theme or selected an existing one and opened it for editing. For more information, see [Creating a New Theme](creating-a-new-theme-f987d5f.md).
+
+-   You have added preview pages and selected one of them. For more information, see [Adding Target Content](adding-target-content-6f99f7f.md).
+
+
+
+
 <a name="copy9fc64f4a9ac8405e88de569b65603cbd__steps_uqp_2zb_4k"/>
 
 ## Procedure
