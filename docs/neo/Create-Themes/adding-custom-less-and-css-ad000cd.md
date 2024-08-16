@@ -10,9 +10,9 @@ Add custom LESS or CSS to make adjustments to your theme that are not possible b
 
 ## Prerequisites
 
--   You have created a theme or selected an existing one and opened it for editing. For more information, see [Creating a New Theme](creating-a-new-theme-f987d5f.md).
+-   You have created a theme or selected an existing one and opened it for editing.
 
--   You have added preview pages and selected one of them. For more information, see [Adding Target Content](adding-target-content-6f99f7f.md).
+-   You have added preview pages and selected one of them.
 
 
 > ### Note:  

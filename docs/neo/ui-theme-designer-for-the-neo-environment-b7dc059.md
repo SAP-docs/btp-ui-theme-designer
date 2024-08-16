@@ -15,7 +15,7 @@ This guide describes how to use the UI theme designer in the Neo environment.
 > 
 > -   :pencil2:: Contribute to a documentation page. This option opens a pull request on GitHub.
 > 
-> -   <span class="SAP-icons"></span> Feedback: Provide feedback about a documentation page. This option opens an issue on GitHub.
+> -   <span class="SAP-icons-V5"></span> Feedback: Provide feedback about a documentation page. This option opens an issue on GitHub.
 > 
 > 
 > You need a GitHub account to use these options.

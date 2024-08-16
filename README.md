@@ -5,7 +5,7 @@
 Found a mistake in our documentation? Always wanted to add a step in one of our procedures that could save many others much time? Then you're at the right place! All contributions made to the Markdown files in the [docs](docs) directory are reviewed, and if deemed valuable be added to our official documentation on SAP Help Portal:
 - [UI theme designer on Cloud Foundry](https://help.sap.com/docs/btp/ui-theme-designer/ui-theme-designer)
 - [UI theme designer on Neo](https://help.sap.com/docs/btp/ui-theme-designer-for-neo-environment/ui-theme-designer-for-neo-environment)
-- [UI theme designer on ABAP Platform](https://help.sap.com/docs/ABAP_PLATFORM_NEW/7b10839d7f5f45b4b2a1a96fc95fd9bb/da5decc9979944fa8dccaa04aa88594a.html?version=202210.000)
+- [UI theme designer on ABAP Platform](https://help.sap.com/docs/ABAP_PLATFORM_NEW/7b10839d7f5f45b4b2a1a96fc95fd9bb/da5decc9979944fa8dccaa04aa88594a.html?version=LATEST)
 
 The easiest way is to start there, and choose _Edit_ to find the right Markdown file to contribute to.
 

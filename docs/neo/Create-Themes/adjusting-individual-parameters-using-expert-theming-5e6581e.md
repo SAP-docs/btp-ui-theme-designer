@@ -12,7 +12,7 @@ If you want to change more than the *Quick* panel could offer, you can use exper
 
 You have selected a theme as the base of your theme and an application for the preview.
 
-See [Creating a New Theme](creating-a-new-theme-f987d5f.md) and [Adding Target Content](adding-target-content-6f99f7f.md).
+See [Creating a New Theme](creating-a-new-theme-f987d5f.md) and [Adding Preview Pages](adding-preview-pages-6f99f7f.md).
 
 
 

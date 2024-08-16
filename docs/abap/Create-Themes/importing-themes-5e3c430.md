@@ -8,7 +8,7 @@ You can import themes as an archive file from your local hard disk to the UI the
 
 ## Procedure
 
-1.  In the welcome screen, choose *Import a Theme*.
+1.  On the welcome screen, choose *Import a Theme*.
 
     The *Import Theme* dialog box appears.
 

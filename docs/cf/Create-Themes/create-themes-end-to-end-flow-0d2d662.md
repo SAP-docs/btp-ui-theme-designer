@@ -25,7 +25,7 @@ You perform the following major steps to build a theme using the UI theme design
 1.  Launch the UI theme designer, and select an SAP theme as the basis for your custom theme using the *Create a New Theme* wizard.
 
     > ### Note:  
-    > You can also import an existing theme and edit it by carrying out the steps below.
+    > You can also migrate an existing theme or import a theme and edit it by carrying out the steps below
 
 2.  Add target content for the preview.
 3.  \(Optional\) Define palette parameters for reuse.

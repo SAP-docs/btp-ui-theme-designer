@@ -26,5 +26,5 @@ Administrators create themes using the *Create New Theme* wizard in the UI theme
 **Related Information**  
 
 
-[Adding Target Content](adding-target-content-6f99f7f.md "Administrators add target content in order to preview any changes they make to the theme.")
+[Adding Preview Pages](adding-preview-pages-6f99f7f.md "Administrators can add preview pages to the UI theme designer editor to preview changes they make to a theme. UI theme designer comes with a set of predefined preview pages for various SAP UI technologies.")
 

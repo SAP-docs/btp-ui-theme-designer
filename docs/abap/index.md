@@ -23,7 +23,7 @@ UI Theme Designer Celeste 1.26
 -   [Create Themes - End to End Flow](Create-Themes/create-themes-end-to-end-flow-79b3063.md)
     -   [Starting the UI Theme Designer](Create-Themes/starting-the-ui-theme-designer-a410b9d.md)
     -   [Creating a New Theme](Create-Themes/creating-a-new-theme-f987d5f.md)
-    -   [Adding Target Content](Create-Themes/adding-target-content-6f99f7f.md)
+    -   [Adding Preview Pages](Create-Themes/adding-preview-pages-6f99f7f.md)
         -   [Adding Applications for Preview Purposes](Create-Themes/adding-applications-for-preview-purposes-fbac2c1.md)
         -   [Adding Test Suites for Preview Purposes](Create-Themes/adding-test-suites-for-preview-purposes-5b32b45.md)
     -   [Changing Theme Parameters](Create-Themes/changing-theme-parameters-0d328f8.md)

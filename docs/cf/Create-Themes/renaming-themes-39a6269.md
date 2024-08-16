@@ -22,9 +22,9 @@ See [Creating a New Theme](creating-a-new-theme-72c730b.md).
 
 1.  Start the UI theme designer.
 
-2.  In the welcome screen, select the custom theme you want to rename. If you have several custom themes, you can use the search field to locate one.
+2.  On the welcome screen, select the custom theme you want to rename. If you have several custom themes, you can use the search field to locate one.
 
-3.  Select *Rename*.
+3.  Choose *Rename*.
 
 4.  Change the *Theme ID*, the *Title* or other meta information about the theme.
 
