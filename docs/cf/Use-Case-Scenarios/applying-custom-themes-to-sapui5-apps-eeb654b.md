@@ -62,10 +62,10 @@ Let's get started.
     > ...
     > "routes": [
     >              {
-    >            "source": "^/themes/(.*)$", 
-    >            "target": "$1",
-    >            "service": "com.sap.ui.theming",
-    >            "endpoint": "runtime",
+    >                "source": "^/themes/(.*)$", 
+    >                "target": "$1",
+    >                "service": "com.sap.ui.theming",
+    >                "endpoint": "runtime"
     >              }
     >           ]
     > ...
