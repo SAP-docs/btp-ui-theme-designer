@@ -10,7 +10,7 @@ Administrators create themes using the *Create a New Theme* wizard in the UI the
 
 ## Prerequisites
 
--   [Initial Setup of UI Theme Designer](../Initial-Setup-of-UI-Theme-Designer/initial-setup-of-ui-theme-designer-d9eb188.md)
+-   [Initial Setup of UI Theme Designer](Initial-Setup-of-UI-Theme-Designer/initial-setup-of-ui-theme-designer-d9eb188.md)
 
 
 

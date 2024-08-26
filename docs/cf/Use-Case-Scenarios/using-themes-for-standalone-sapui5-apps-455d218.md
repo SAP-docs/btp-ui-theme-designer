@@ -14,8 +14,6 @@ To use your themes for standalone SAPUI5 applications, you need to configure the
 
 ## The overall process is as follows:
 
-![](images/Use_Case_Scenario_2_-_HCP_Cockpit_3c37f44.png)
-
 1.  Launch the *UI Theme Designer* from the SAP BTP cockpit.
 
 2.  Switch to the required SAPUI5 version.
@@ -27,7 +25,7 @@ To use your themes for standalone SAPUI5 applications, you need to configure the
 
 3.  Create a theme in the UI theme designer.
 
-    For more information, see [Creating a New Theme](../Create-Themes/creating-a-new-theme-72c730b.md).
+    For more information, see [Creating a New Theme](../creating-a-new-theme-72c730b.md).
 
 4.  Deploy your custom theme to you SAP BTP subaccount.
 

@@ -20,5 +20,3 @@ To get an impression of how UI theme designer helps you provide a seamless and d
 
 This section acts as a reference to more information about certain topics that you may want to know before or while you are creating themes in the UI theme designer.
 
-![](images/Image_Map_Get_Started_c6497b0.png)
-

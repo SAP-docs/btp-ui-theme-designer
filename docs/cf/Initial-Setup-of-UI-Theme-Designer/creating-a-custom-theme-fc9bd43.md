@@ -4,7 +4,7 @@
 
 Start creating a custom theme.
 
-For information about working with the UI Theme Designer, see [Create Themes — End to End Flow](../Create-Themes/create-themes-end-to-end-flow-0d2d662.md).
+For information about working with the UI Theme Designer, see [Create Themes — End to End Flow](../create-themes-end-to-end-flow-0d2d662.md).
 
 > ### Note:  
 > In the Developer PaaS Scenario, the theme is not registered with the launchpad Theme Manager. Instead, after you have saved the new theme to your subaccount, you have to add it manually to the launchpad's CommonDataModel.json.

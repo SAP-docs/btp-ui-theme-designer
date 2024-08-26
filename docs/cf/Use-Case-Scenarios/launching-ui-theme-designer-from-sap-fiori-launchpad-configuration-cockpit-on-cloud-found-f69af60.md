@@ -12,7 +12,7 @@ The recommended way of launching the UI theme designer through Theme Manager on 
 
 You have designed a custom theme using the UI theme designer
 
-For more information, see [Create Themes — End to End Flow](../Create-Themes/create-themes-end-to-end-flow-0d2d662.md).
+For more information, see [Create Themes — End to End Flow](../create-themes-end-to-end-flow-0d2d662.md).
 
 
 

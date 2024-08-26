@@ -67,7 +67,3 @@ When using a custom IDP, you have configured the Identity Provider \(IDP\) to ac
 </tr>
 </table>
 
-
-
-![](images/Imagemap_Initial_Setup_of_the_UI_theme_designer_6b38655.png)
-

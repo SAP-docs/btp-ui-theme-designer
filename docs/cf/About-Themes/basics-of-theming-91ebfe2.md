@@ -57,5 +57,5 @@ Since custom themes only store the custom changes, future updates to the base th
 
 [http://less2css.org/](http://less2css.org/ "Use this page to enter LESS code and display the corresponding CSS code.")
 
-[Typical LESS Functions](../Create-Themes/typical-less-functions-e1a5b2d.md "The following is a list of typical LESS functions for colors.")
+[Typical LESS Functions](../typical-less-functions-e1a5b2d.md "The following is a list of typical LESS functions for colors.")
 

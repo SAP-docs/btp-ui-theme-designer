@@ -36,6 +36,6 @@ Predefined preview pages are available for various SAP UI technologies, for exam
 
     These options are described in more detail in separate topics in this section.
 
-3.  Select your new preview page. Click the *Original/Preview* toggle button \(in the toolbar at the top of the page\) to switch between the preview and the original SAP theme.
+3.  Select your new preview page. Click the *Original/Preview* toggle button \(in the toolbar at the top of the page\) to switch between the preview and the original SAP theme. For more information, see [Working with Preview Pages](working-with-preview-pages-8988483.md).
 
 

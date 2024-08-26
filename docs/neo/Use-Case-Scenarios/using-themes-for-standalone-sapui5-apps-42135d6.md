@@ -18,8 +18,6 @@ The overall process is as follows:
 
 ## The overall process is as follows:
 
-![](images/Use_Case_Scenario_2_-_HCP_Cockpit_3c37f44.png)
-
 1.  Launch the *UI Theme Designer* from the SAP BTP cockpit.
 
     For more information, see [Launching UI Theme Designer Directly from SAP BTP](launching-ui-theme-designer-directly-from-sap-btp-2761ea4.md).

@@ -26,15 +26,15 @@ Click the shapes for more information.
 
 2.  Create your theme.
 
-    For more information, see [Creating a New Theme](../Create-Themes/creating-a-new-theme-72c730b.md).
+    For more information, see [Creating a New Theme](../creating-a-new-theme-72c730b.md).
 
 3.  Save your theme as an HTML5 application.
 
-    For more information, see [Saving Themes](../Create-Themes/saving-themes-c99d9df.md).
+    For more information, see [Saving Themes](../saving-themes-c99d9df.md).
 
 4.  Publish your theme in the UI theme designer.
 
-    By doing this, you are automatically registering your theme with the Theme Manager in your SAP BTP subaccount. For more information, see [Publishing Themes](../Create-Themes/publishing-themes-f4889a4.md).
+    By doing this, you are automatically registering your theme with the Theme Manager in your SAP BTP subaccount. For more information, see [Publishing Themes](../publishing-themes-f4889a4.md).
 
 5.  Now you can access the Theme Manager to manage your theme and assign it to your Portal site \(launchpad or freestyle\). At runtime, end users will also be able to select this theme from a list of available themes when they want to change the branding of their site.
 

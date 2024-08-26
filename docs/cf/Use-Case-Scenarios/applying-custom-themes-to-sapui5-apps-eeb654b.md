@@ -62,10 +62,10 @@ Let's get started.
     > ...
     > "routes": [
     >              {
-    >                "source": "^/themes/(.*)$", 
-    >                "target": "$1",
-    >                "service": "com.sap.ui.theming",
-    >                "endpoint": "runtime"
+    >                 "source": "^/themes/(.*)$", 
+    >                 "target": "$1",
+    >                 "service": "com.sap.ui.theming",
+    >                 "endpoint": "runtime"
     >              }
     >           ]
     > ...
@@ -78,13 +78,4 @@ Let's get started.
 <a name="loioeeb654b57d074e828fd7ab91f543e472__section_tdb_2tx_wdb"/>
 
 ## Then run your SAPUI5 application in one of the following ways:
-
--   Via a URL Parameter
-
-    For more information, see [Running a Custom Theme via a URL Parameter](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/25896d06a71a4bc190833c5947f6fdcd.html?q=Running%20a%20Custom%20Theme%20via%20a%20URL%20Parameter).
-
--   Via the SAPUI5 Bootstrap Configuration
-
--   For more information, see [Running a Custom Theme via a SAPUI5 Bootstrap Configuration](running-a-custom-theme-via-a-sapui5-bootstrap-configuration-80642ec.md).
-
 

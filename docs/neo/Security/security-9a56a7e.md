@@ -4,7 +4,3 @@
 
 In this section of the guide, administrators can learn all security aspects of the UI theme designer including data protection.
 
-
-
-![](images/Imagemap_Security_for_UI_theme_designer_3241ed4.png)
-

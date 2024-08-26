@@ -14,10 +14,6 @@ From here you can easily manage your themes and assign them to any site in your 
 
 ## The overall process is as follows:
 
-Click the shapes for more information.
-
-![](images/Use_Case_Scenario_1_-_Portal_14412c5.png)
-
 
 
 1.  Access the UI theme designer from the SAP Fiori launchpad configuration cockpit.
@@ -30,7 +26,7 @@ Click the shapes for more information.
 
 3.  Save your theme as an HTML5 application.
 
-    For more information, see  <?sap-ot O2O class="- topic/xref " href="d986f77e5c6744de9a170859c63008f6.xml" text="" desc="" xtrc="xref:8" xtrf="file:/home/builder/src/dita-all/xch1723619576420/loio224f0e792494418c8c4351fa75099a04_en-US/src/content/localization/en-us/e6f8da34eca84a32b936cf889689af47.xml" output-class="" outputTopicFile="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
+    For more information, see [Saving Themes](../Create-Themes/saving-themes-a8155b8.md).
 
 4.  Publish your theme in the UI theme designer.
 

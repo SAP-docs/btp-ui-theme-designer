@@ -82,12 +82,3 @@ Let's get started.
 
 ## Then run your SAPUI5 application in one of the following ways:
 
--   Via a URL Parameter
-
-    For more information, see [Running a Custom Theme via a URL Parameter](running-a-custom-theme-via-a-url-parameter-fee3c50.md).
-
--   Via the SAPUI5 Bootstrap Configuration
-
--   For more information, see [Running a Custom Theme via a SAPUI5 Bootstrap Configuration](running-a-custom-theme-via-a-sapui5-bootstrap-configuration-9d5a599.md).
-
-

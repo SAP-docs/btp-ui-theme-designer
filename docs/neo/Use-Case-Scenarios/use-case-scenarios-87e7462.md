@@ -12,7 +12,3 @@ In this section, we will tell you about the different use case scenarios - how y
 
 For more information, hover over the shapes below, click them for more details.
 
-
-
-![](images/Image_Map_Use_Case_Scenarios_a798aa0.png)
-
