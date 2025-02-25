@@ -1,0 +1,10 @@
+version = 1
+SPDX-PackageName = "UI theme designer"
+SPDX-PackageSupplier = "Melanie Holtbruegge (melanie.holtbruegge@sap.com)"
+SPDX-PackageDownloadLocation = "https://github.com/sap-docs/btp-ui-theme-designer"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2023 SAP SE or an SAP affiliate company and btp-ui-theme-designer contributors"
+SPDX-License-Identifier = "CC-BY-4.0"
