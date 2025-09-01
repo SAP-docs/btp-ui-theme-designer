@@ -6,14 +6,6 @@ The UI theme designer tools help you to find the Expert parameters that are rele
 
 
 
-<a name="copy70e58588e47a482cbb5eaf2cc9764ecd__section_krv_jqy_cqb"/>
-
-## UI Element Highlighting
-
-If you select a parameter in the *Expert* view, the UI elements that are affected by this parameter are highlighted in the preview area.
-
-
-
 ## **CSS Search**
 
 With the CSS search option in the Expert tab, you can search for parameters used in CSS rules.

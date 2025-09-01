@@ -15,19 +15,11 @@ Add custom LESS or CSS to make adjustments to your theme that are not possible b
 -   You have added preview pages and selected one of them.
 
 
-> ### Note:  
-> Select the preview application for the UI technology for which you want to add custom CSS or LESS.
-
 
 
 <a name="copyad000cde148843e4a83262c446a350b3__context_N10014_N10011_N10001"/>
 
 ## Context
-
-The following UI technologies support custom LESS and CSS:
-
--   SAPUI5
--   Unified Rendering technologies \(Web Dynpro ABAP, FPM\)
 
 > ### Note:  
 > SAP does not take responsibility for changes you make using the CSS tab.
@@ -45,23 +37,22 @@ The following UI technologies support custom LESS and CSS:
 
 1.  On top of the side panel on the right, choose *CSS*.
 
-2.  Choose *Add Custom CSS*.
+2.  For SAPUI5 and Unified Rendering technologies, select the appropriate option in the technology dropdown, for all other technologies choose *Base*. **Note:** You can only select a technology from the *UI Technology* dropdown after you have chosen a preview page for that specific technology.
 
-3.  Enter your LESS or CSS code in the editor.
+3.  Choose *Add Custom CSS*.
 
-    You want to define that the color of the whole page of an SAPUI5 application is the same as the brand color but with an opacity of 10%. To do so, you can use the SAPUI5 CSS class `sapUiBody` and reference the theming parameter `sapBrandColor`.
+4.  Enter your LESS or CSS code in the editor.
+
+    You want to define that the color of the whole page of an SAPUI5 application is the same as the brand color but with an opacity of 10%. To do so, you can use the SAPUI5 CSS class `sapUiBody` and reference the CSS custom property for the theming parameter `sapBrandColor`.
 
     ```
     .sapUiBody{ 
-    background-color:fade(@sapBrandColor,10);
+    	background-color: hsl(from var(--
+    sapBrandColor) h s l / .1);
     }
     ```
 
-    If you now change the brand color using the *Quick* tab, the color of the whole page adjusts automatically.
-
-    You can also define your own LESS variables and reuse them within your coding.
-
-4.  Choose *Apply*.
+5.  Choose *Apply*.
 
 
 

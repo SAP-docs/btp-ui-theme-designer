@@ -1,7 +1,7 @@
 # UI Theme Designer for the Neo Environment
 
 -   [UI Theme Designer for the Neo Environment](ui-theme-designer-for-the-neo-environment-b7dc059.md)
--   [What's New in UI Theme Designer](what-s-new-in-ui-theme-designer-f870b99.md)
+-   [What's New in UI Theme Designer](what-s-new-in-ui-theme-designer-c069591.md)
 -   [Initial Setup of UI Theme Designer](Initial-Setup-of-UI-Theme-Designer/initial-setup-of-ui-theme-designer-6803e8c.md)
     -   [Enabling UI Theme Designer](Initial-Setup-of-UI-Theme-Designer/enabling-ui-theme-designer-6769bd5.md)
     -   [Setting Up Permissions for the UI Theme Designer](Initial-Setup-of-UI-Theme-Designer/setting-up-permissions-for-the-ui-theme-designer-adbcaa6.md)

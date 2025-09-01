@@ -2,17 +2,18 @@
 
 # Adjusting Individual Parameters Using Expert Theming
 
-If you want to change more than the *Quick* panel could offer, you can use expert theming to make fine-tuned adjustments to your theme.
+If you want to change more than the *Quick* or *Detailed* panels could offer, you can use expert theming to make fine-tuned adjustments to your theme.
 
 
 
-<a name="loio5e6581e17b3741b99117dbadc636c48e__prereq_N10015_N10012_N10001"/>
+<a name="loio5e6581e17b3741b99117dbadc636c48e__prereq_ycq_th3_3yb"/>
 
 ## Prerequisites
 
-You have selected a theme as the base of your theme and an application for the preview.
+-   You have created a theme or selected an existing one and opened it for editing. For more information, see  <?sap-ot O2O class="- topic/xref " href="72c730b60f6b41b0bfed63b474007b51.xml" text="" desc="" xtrc="xref:1" xtrf="file:/home/builder/src/dita-all/chq1709733416753/loio6e2d9e0fb80d4d788707c20ca8ff4bd9_en-US/src/content/localization/en-us/5e6581e17b3741b99117dbadc636c48e.xml" output-class="" outputTopicFile="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
 
-See [Creating a New Theme](creating-a-new-theme-f987d5f.md) and [Adding Preview Pages](adding-preview-pages-6f99f7f.md).
+-   You have added preview pages and selected one of them. For more information, see  <?sap-ot O2O class="- topic/xref " href="8af60d39007a4847919f8dcbbb7a7b16.xml" text="" desc="" xtrc="xref:2" xtrf="file:/home/builder/src/dita-all/chq1709733416753/loio6e2d9e0fb80d4d788707c20ca8ff4bd9_en-US/src/content/localization/en-us/5e6581e17b3741b99117dbadc636c48e.xml" output-class="" outputTopicFile="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
+
 
 
 
@@ -20,9 +21,11 @@ See [Creating a New Theme](creating-a-new-theme-f987d5f.md) and [Adding Preview 
 
 ## Context
 
-Expert theming allows a finer grain of changes than Quick theming, supporting both cross UI technology parameters and UI technology specific parameters. Expert parameters may evolve over time, potentially requiring maintenance after upgrades.
+Expert theming allows a finer grain of changes than Quick and Detailed theming. These parameters can influence many elements if they are very generic \(e.g. Quick parameters like the default text color\), only some parameters of a few controls \(e.g. the different button colors\), only parameters of one control or no other parameters at all.
 
 
+
+<a name="loio5e6581e17b3741b99117dbadc636c48e__steps_rl1_m4r_y3b"/>
 
 ## Procedure
 
@@ -32,7 +35,7 @@ Expert theming allows a finer grain of changes than Quick theming, supporting bo
 
     You have the following filter and search options:
 
-    -   Filter for parameters that have the same type. The following categories are available:
+    -   Filter for parameters that have the same type. The following filters are available:
 
         ****
 
@@ -41,7 +44,7 @@ Expert theming allows a finer grain of changes than Quick theming, supporting bo
         <tr>
         <th valign="top">
 
-        Category Icon
+        Filter Icon
         
         </th>
         <th valign="top">
@@ -82,7 +85,7 @@ Expert theming allows a finer grain of changes than Quick theming, supporting bo
         </td>
         <td valign="top">
         
-        Shows parameters with dimension value \(em, px, pt, % etc\).
+        Shows parameters with dimension value \(em, px, pt, % etc.\).
         
         </td>
         </tr>
@@ -101,21 +104,32 @@ Expert theming allows a finer grain of changes than Quick theming, supporting bo
         </table>
         
     -   Choose ![](images/Delta_Filter_f19cafd.png) to show changed parameters only.
-    -   Choose ![](images/Control_Picker_2d4d775.png) to switch on the control picker mode.
+    -   Choose ![](images/Icon_X_39a1f24.png) to find parameters with errors.
+    -   Choose ![](images/Control_Picker_2d4d775.png) to switch on the element picker mode.
 
-        When you hover over an element in the preview area, it will be highlighted. When you select the element, only parameters that are related to the selected element are displayed.
+        When you hover over an element in the preview area, it is highlighted. When you select the element, only parameters that are related to the selected element are displayed.
+
+        > ### Note:  
+        > Element inspection is only possible if the preview page and the UI theme designer share the same origin.
 
     -   Choose ![Tag View](images/Tag_View_fdc5ba6.png) to switch to the tag view.
 
         A list of toggle links with filter categories is displayed. Select a link to add all available parameters with that tag to the parameter list. Selecting additional links restricts the list of parameters displayed.
 
+        > ### Note:  
+        > When you select a control preview page, you find the most relevant parameters when you select the corresponding tag \(e.g. select tag *Button* for the Button preview page\).
+
     -   Use the search input field to search for a string in the parameter name.
 
-        For example, enter the search string `disabled` to filter for all parameters that define the visual appearance of disabled controls.
+        For example, enter the search string `disabled` to filter for all parameters that define the visual appearance of disabled controls. You can enter the name or parts of a name of parameters.
+
+        To search for more than one name \(part\), you can concatenate them with the vertical bar |. An example: To search for parameters containing the words `background` or `base`, please enter `background|base`.
+
+    -   You can find more possibilities to find the relevant parameters in  <?sap-ot O2O class="- topic/xref " href="0980cc66dfb54ca0923e25bf64812085.xml" text="" desc="" xtrc="xref:3" xtrf="file:/home/builder/src/dita-all/chq1709733416753/loio6e2d9e0fb80d4d788707c20ca8ff4bd9_en-US/src/content/localization/en-us/5e6581e17b3741b99117dbadc636c48e.xml" output-class="" outputTopicFile="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
 
 
-3.  Change the parameter values according to your needs.
+3.  If you click on a parameter name in the list, you get a popup with additional information about the parameter. Here you find the name, a description, the current value, the last saved value and the original value, some more information about the parameter, and the tags which are assigned to this parameter. You have the possibility to copy the parameter name into the clipboard and you can restore the value to the last saved one or to the original value.
 
-4.  To switch between parameters of standard and contrast areas of themes based on SAP Belize, toggle the contrast switch in the value column header.
+4.  Change the parameter values according to your needs.
 
 

@@ -4,11 +4,11 @@
 
 # What Is UI theme designer
 
-Apply your corporate branding to applications based on SAPUI5 technology. 
+Apply your corporate branding to applications based on SAP UI technologies. 
 
 The UI theme designer is a browser-based tool for cross-theming scenarios. Use it to easily build your corporate identity themes by modifying one of the theme templates provided by SAP. For example, you can change the color scheme, or add your company logo. The tool is targeted at different user groups, including developers, visual designers, and administrators.
 
-Use the UI theme designer across different UI technologies, such as SAPUI5, Unified Rendering, including Web Dynpro ABAP and Floorplan Manager, to build your custom theme with an easy to use WYSIWYG editor.
+Use the UI theme designer across different UI technologies, such as SAPUI5, UI5 Web Components, Unified Rendering included in Web Dynpro ABAP and SAP GUI for HTML, SAP Mobile Start and Fundamental Library Styles, to build your custom theme with an easy to use WYSIWYG editor.
 
 > ### Tip:  
 > The English version of this guide is open for contributions and feedback using GitHub. This allows you to get in contact with responsible authors of SAP Help Portal pages and the development team to discuss documentation-related issues. To contribute to this guide, or to provide feedback, choose the corresponding option on SAP Help Portal:
@@ -32,11 +32,22 @@ Use the UI theme designer across different UI technologies, such as SAPUI5, Unif
 
 ## Environment
 
-This service runs in the following environments:
+The UI theme designer runs in the following environments:
 
--   Neo environment
+-   SAP BTP Cloud Foundry environment
 
--   Cloud Foundry environment
+-   SAP BTP Neo environment
+
+-   ABAP Platform
+
+
+You can integrate the UI theme designer from SAP BTP Cloud Foundry environment with:
+
+-   SAP S/4HANA Cloud Public Edition
+
+-   SAP BTP ABAP environment
+
+-   SAP BTP Kyma environment
 
 
 
@@ -47,12 +58,12 @@ This service runs in the following environments:
 <dl>
 <dt><b>
 
-Theming of apps based on SAPUI5
+Cross-technology theming
 
 </b></dt>
 <dd>
 
-Create your own custom themes based on SAP standard themes, and use them to adapt the visual appearance of your applications based on SAPUI5 to match your company's brand.
+Develop a single theme by customizing a standard SAP theme template and apply it to applications developed with various SAP UI technologies.
 
 
 
@@ -63,29 +74,7 @@ WYSIWYG editor with preview pages
 </b></dt>
 <dd>
 
-Change the values of theming parameters and immediately see what your custom theme will look like when it is applied to an application.
-
-
-
-</dd><dt><b>
-
-Saving multiple custom themes
-
-</b></dt>
-<dd>
-
-You can create or import multiple custom themes that can then be saved and published.
-
-
-
-</dd><dt><b>
-
-Automatic upgrade of themes
-
-</b></dt>
-<dd>
-
-You can upgrade your themes automatically to match the required version of SAPUI5.
+Modify theming parameters and immediately preview how your theme will appear when applied to an application. Review your changes across different technologies using technology-specific preview changes.
 
 
 
@@ -96,7 +85,7 @@ Different level of theming
 </b></dt>
 <dd>
 
-Quick theming \(basic cross-technology theme settings\) Expert theming \(technology-specific theme settings\) Manual LESS or CSS editing
+The UI theme designer follows a top-down approach, starting with quick customizations, such as adjusting the logo and main colors, and extending to more detailed control adjustments.
 
 
 
@@ -107,29 +96,84 @@ Color palette for reuse
 </b></dt>
 <dd>
 
-Specify a set of parameters with the main color values defining your corporate branding.
+Define a set of key color parameters that reflect your corporate branding, making it easy to replace SAP's default theming values with your own.
 
 
 
 </dd><dt><b>
 
-Control picker
+Theme sets
 
 </b></dt>
 <dd>
 
-Simply select controls in the preview page to display a list of parameters that can be used to change its appearance.
+Define light, dark, and high-contrast appearances for your theme to adjust the theme automatically during the day in sync with your system.
 
 
 
 </dd><dt><b>
 
-Cross-technology theming
+Export and import themes
 
 </b></dt>
 <dd>
 
-SAPUI5 standard libraries \(including SAP Fiori applications and SAP Fiori launchpad\) Unified Rendering technologies \(such as Web Dynpro ABAP and Floorplan Manager - For use with S/4HANA Cloud or Export/Import only\)
+Export and import your theme to seamlessly apply it across different environments.
+
+
+
+</dd><dt><b>
+
+Migrate your theme
+
+</b></dt>
+<dd>
+
+Upgrade your theme to the latest theme for SAP applications to ensure access to new features.
+
+
+
+</dd><dt><b>
+
+Theme fallback \(SAP BTP only\)
+
+</b></dt>
+<dd>
+
+Define a fallback theme to be used when the primary theme cannot be applied to an application.
+
+
+
+</dd><dt><b>
+
+Automatic upgrade of themes \(SAP BTP only\) 
+
+</b></dt>
+<dd>
+
+The theming service automatically provides the theme for different technology versions on-demand.
+
+
+
+</dd><dt><b>
+
+Transporting themes 
+
+</b></dt>
+<dd>
+
+Administrators can easily transport themes in the ABAP Platform between different ABAP on-premise systems and on SAP BTP Cloud Foundry between landscapes and subaccounts.
+
+
+
+</dd><dt><b>
+
+Feedback 
+
+</b></dt>
+<dd>
+
+We'd love to hear your thoughts on the UI theme designer. Share your feedback to hep us enhance the theming experience.
 
 
 
@@ -142,5 +186,16 @@ SAPUI5 standard libraries \(including SAP Fiori applications and SAP Fiori launc
 
 ## Overview Video
 
-Watch this video to get an [overview of UI theme designer](https://video.sap.com/media/t/1_zgnxxwco).
+Watch this video to get an [overview of UI theme designer](https://video.sap.com/media/t/1_7tm35v8p).
+
+
+
+<a name="loio226627e8f9d544eb99371158d0fc5227__section_yvl_sgp_mdc"/>
+
+## Further Information
+
+-   Check out the [SAP Fiori for Web Design Guidelines](https://experience.sap.com/fiori-design-web/) to get information about the SAP Fiori Design System, UI Elements, and the Designer Toolkit.
+
+-   Be part of the [SAP UI theme designer community](https://pages.community.sap.com/topics/ui-theme-designer)
+
 
