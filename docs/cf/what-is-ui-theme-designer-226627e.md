@@ -6,7 +6,7 @@
 
 Apply your corporate branding to applications based on SAP UI technologies. 
 
-The UI theme designer is a browser-based tool for cross-theming scenarios. Use it to easily build your corporate identity themes by modifying one of the theme templates provided by SAP. For example, you can change the color scheme, or add your company logo. The tool is targeted at different user groups, including developers, visual designers, and administrators.
+The UI theme designer is a browser-based tool for cross-theming scenarios. Use it to easily build your corporate identity themes by modifying one of the theme templates provided by SAP. For example, you can change the color scheme, or add your company logo. The tool is targeted at different user groups, including developers, visual designers, and administrators. It is offered with SAP Build Work Zone, standard edition and SAP Build Work Zone, advanced edition.
 
 Use the UI theme designer across different UI technologies, such as SAPUI5, UI5 Web Components, Unified Rendering included in Web Dynpro ABAP and SAP GUI for HTML, SAP Mobile Start and Fundamental Library Styles, to build your custom theme with an easy to use WYSIWYG editor.
 
@@ -146,7 +146,7 @@ Define a fallback theme to be used when the primary theme cannot be applied to a
 
 </dd><dt><b>
 
-Automatic upgrade of themes \(SAP BTP only\) 
+Automatic themes upgrade \(SAP BTP only\) 
 
 </b></dt>
 <dd>

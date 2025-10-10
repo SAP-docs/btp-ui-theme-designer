@@ -10,9 +10,9 @@ If you want to change more than the *Quick* or *Detailed* panels could offer, yo
 
 ## Prerequisites
 
--   You have created a theme or selected an existing one and opened it for editing. For more information, see  <?sap-ot O2O class="- topic/xref " href="72c730b60f6b41b0bfed63b474007b51.xml" text="" desc="" xtrc="xref:1" xtrf="file:/home/builder/src/dita-all/chq1709733416753/loio6e2d9e0fb80d4d788707c20ca8ff4bd9_en-US/src/content/localization/en-us/5e6581e17b3741b99117dbadc636c48e.xml" output-class="" outputTopicFile="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
+-   You have created a theme or selected an existing one and opened it for editing. For more information, see .[Creating a New Theme](creating-a-new-theme-f987d5f.md)
 
--   You have added preview pages and selected one of them. For more information, see  <?sap-ot O2O class="- topic/xref " href="8af60d39007a4847919f8dcbbb7a7b16.xml" text="" desc="" xtrc="xref:2" xtrf="file:/home/builder/src/dita-all/chq1709733416753/loio6e2d9e0fb80d4d788707c20ca8ff4bd9_en-US/src/content/localization/en-us/5e6581e17b3741b99117dbadc636c48e.xml" output-class="" outputTopicFile="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
+-   You have added preview pages and selected one of them. For more information, see [Adding Preview Pages](adding-preview-pages-6f99f7f.md).
 
 
 
@@ -124,8 +124,6 @@ Expert theming allows a finer grain of changes than Quick and Detailed theming. 
         For example, enter the search string `disabled` to filter for all parameters that define the visual appearance of disabled controls. You can enter the name or parts of a name of parameters.
 
         To search for more than one name \(part\), you can concatenate them with the vertical bar |. An example: To search for parameters containing the words `background` or `base`, please enter `background|base`.
-
-    -   You can find more possibilities to find the relevant parameters in  <?sap-ot O2O class="- topic/xref " href="0980cc66dfb54ca0923e25bf64812085.xml" text="" desc="" xtrc="xref:3" xtrf="file:/home/builder/src/dita-all/chq1709733416753/loio6e2d9e0fb80d4d788707c20ca8ff4bd9_en-US/src/content/localization/en-us/5e6581e17b3741b99117dbadc636c48e.xml" output-class="" outputTopicFile="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
 
 
 3.  If you click on a parameter name in the list, you get a popup with additional information about the parameter. Here you find the name, a description, the current value, the last saved value and the original value, some more information about the parameter, and the tags which are assigned to this parameter. You have the possibility to copy the parameter name into the clipboard and you can restore the value to the last saved one or to the original value.

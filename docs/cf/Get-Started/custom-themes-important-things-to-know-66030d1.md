@@ -16,7 +16,7 @@ What is a custom theme?
 </td>
 <td valign="top">
 
-See [Basics of Theming](../About-Themes/basics-of-theming-91ebfe2.md).
+See [What is a Custom Theme?](../About-Themes/what-is-a-custom-theme-71bcf85.md).
 
 </td>
 </tr>

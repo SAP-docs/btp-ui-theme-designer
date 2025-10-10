@@ -10,9 +10,9 @@ If you want to change more than the *Quick* or *Detailed* panels could offer, yo
 
 ## Prerequisites
 
--   You have created a theme or selected an existing one and opened it for editing. For more information, see [Creating a New Theme](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/72c730b60f6b41b0bfed63b474007b51.html "Administrators create themes using the Create a New Theme wizard in the UI theme designer.") :arrow_upper_right:.
+-   You have created a theme or selected an existing one and opened it for editing. For more information, see .[Creating a New Theme](creating-a-new-theme-f987d5f.md)
 
--   You have added preview pages and selected one of them. For more information, see [Adding Preview Pages](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/8af60d39007a4847919f8dcbbb7a7b16.html "Administrators or other theme developers can add preview pages to the UI theme designer editor to preview changes they make to a theme. UI theme designer comes with a set of predefined preview pages for various SAP UI technologies.") :arrow_upper_right:.
+-   You have added preview pages and selected one of them. For more information, see [Adding Preview Pages](adding-preview-pages-6f99f7f.md).
 
 
 
@@ -124,8 +124,6 @@ Expert theming allows a finer grain of changes than Quick and Detailed theming. 
         For example, enter the search string `disabled` to filter for all parameters that define the visual appearance of disabled controls. You can enter the name or parts of a name of parameters.
 
         To search for more than one name \(part\), you can concatenate them with the vertical bar |. An example: To search for parameters containing the words `background` or `base`, please enter `background|base`.
-
-    -   You can find more possibilities to find the relevant parameters in  <?sap-ot O2O class="- topic/xref " href="0980cc66dfb54ca0923e25bf64812085.xml" text="" desc="" xtrc="xref:3" xtrf="file:/home/builder/src/dita-all/wrb1756113250382/loio224f0e792494418c8c4351fa75099a04_en-US/src/content/localization/en-us/5e6581e17b3741b99117dbadc636c48e.xml" output-class="" outputTopicFile="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
 
 
 3.  If you click on a parameter name in the list, you get a popup with additional information about the parameter. Here you find the name, a description, the current value, the last saved value and the original value, some more information about the parameter, and the tags which are assigned to this parameter. You have the possibility to copy the parameter name into the clipboard and you can restore the value to the last saved one or to the original value.

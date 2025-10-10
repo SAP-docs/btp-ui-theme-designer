@@ -2,7 +2,5 @@
 
 # About Themes
 
-Before applying corporate branding, administrators should understand the basic concepts of theming.
-
-In this section we will tell you all about the basics of theming and how the theme files are structured.
+This section provides deeper insights into theming concepts, including how the theming content is structured and the format of custom themes.
 
