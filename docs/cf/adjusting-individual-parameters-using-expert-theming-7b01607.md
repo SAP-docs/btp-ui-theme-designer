@@ -125,6 +125,8 @@ Expert theming allows a finer grain of changes than Quick and Detailed theming. 
 
         To search for more than one name \(part\), you can concatenate them with the vertical bar |. An example: To search for parameters containing the words `background` or `base`, please enter `background|base`.
 
+    -   You can find more possibilities to find the relevant parameters in  <?sap-ot O2O class="- topic/xref " href="0980cc66dfb54ca0923e25bf64812085.xml" text="" desc="" xtrc="xref:3" xtrf="file:/home/builder/src/dita-all/xxo1762161974990/loio0b1c0667f49744caaa87d02130d4ac5d_en-US/src/content/localization/en-us/7b01607cb9564f6d94087a6db995c350.xml" output-class="" outputTopicFile="file:/home/builder/tp.net.sf.dita-ot/2.3/plugins/com.elovirta.dita.markdown_1.3.0/xsl/dita2markdownImpl.xsl" ?> .
+
 
 3.  If you click on a parameter name in the list, you get a popup with additional information about the parameter. Here you find the name, a description, the current value, the last saved value and the original value, some more information about the parameter, and the tags which are assigned to this parameter. You have the possibility to copy the parameter name into the clipboard and you can restore the value to the last saved one or to the original value.
 

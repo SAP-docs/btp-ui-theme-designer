@@ -63,6 +63,18 @@ It is currently not possible to use the UI theme designer to directly theme an a
 <tr>
 <td valign="top">
 
+How can I use a custom theme from SAP BTP, Cloud Foundry environment?
+
+</td>
+<td valign="top">
+
+You can set up a connection to your SAP BTP, Cloud Foundry account and configure the UI theme designer in your SAP S/4HANA system to access the theming information. For more information, see [Integrating SAP BTP, Cloud Foundry Themes with SAP S/4HANA](../Use-Case-Scenarios/integrating-sap-btp-cloud-foundry-themes-with-sap-s-4hana-3ccb78c.md)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
 Which browsers are supported for custom themes?
 
 </td>

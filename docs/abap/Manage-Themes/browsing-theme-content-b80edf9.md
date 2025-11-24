@@ -29,7 +29,5 @@ The theme repository browser allows you to access the theming files that are exp
 **Related Information**  
 
 
-[Overview of SAP Theming Content](../About-Themes/overview-of-sap-theming-content-91ebfe2.md "SAP Theming Content is the set of parameters and assets that define branding and visual styles across SAP applications.")
-
-[What is a Custom Theme?](../About-Themes/what-is-a-custom-theme-71bcf85.md "A custom theme is a theme you create with the UI theme designer to apply your corporate branding to SAP applications.")
+[Structure of Theming Files](../About-Themes/structure-of-theming-files-71bcf85.md "The files defining custom themes and SAP standard themes are stored in the theme repository.")
 
