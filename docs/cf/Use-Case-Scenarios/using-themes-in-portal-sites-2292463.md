@@ -14,8 +14,6 @@ From here you can easily manage your themes and assign them to any site in your 
 
 ## The overall process is as follows:
 
-Click the shapes for more information.
-
 ![](images/Use_Case_Scenario_1_-_Portal_14412c5.png)
 
 
@@ -28,7 +26,7 @@ Click the shapes for more information.
 
     For more information, see [Creating a New Theme](../creating-a-new-theme-72c730b.md).
 
-3.  Save your theme as an HTML5 application.
+3.  Save your theme.
 
     For more information, see [Saving Themes](../saving-themes-c99d9df.md).
 

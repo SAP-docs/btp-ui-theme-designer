@@ -4,7 +4,7 @@
 
 
 
-SAP’s design systems use rem-based dimension parameters for all themes introduced since 2016. Belize was the first rem-based theme family.
+The SAP Design System uses rem-based dimension parameters.
 
 **rem** stands for **root em** and defines dimensions relative to the font size of the root element. This improves accessibility: Entire applications can be resized by simply changing the font size of the root element. This helps to meet [Success Criterion 1.4.4 \(Resize Text \(Level AA\)\)](https://www.w3.org/WAI/WCAG21/Understanding/resize-text) of the Web Content Accessibility Guidelines \(WCAG\) 2.1.
 

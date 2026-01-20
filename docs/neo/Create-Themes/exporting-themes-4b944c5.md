@@ -173,7 +173,7 @@ Administrators use the export function to download themes as zip files from the 
     > ### Note:  
     > All options support the import of the zip file into the UI theme designer running on SAP BTP. You can always import the transferred theme back again to your original system when you need to make changes to it.
 
-4.  To export your theme, click *Export* or use *Theme* \> *Export* in the editor.
+4.  To export your theme, click *Export*.
 
     A *Zip* folder containing the theming files is created in your *Downloads* folder on your hard disk.
 

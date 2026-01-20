@@ -37,22 +37,24 @@ Add custom LESS or CSS to make adjustments to your theme that are not possible b
 
 1.  On top of the side panel on the right, choose *CSS*.
 
-2.  For SAPUI5 and Unified Rendering technologies, select the appropriate option in the technology dropdown, for all other technologies choose *Base*. **Note:** You can only select a technology from the *UI Technology* dropdown after you have chosen a preview page for that specific technology.
+2.  For SAPUI5 and Unified Rendering \(UR\) technologies, select the appropriate option in the technology dropdown, for all other technologies choose *Base*.
 
-3.  Choose *Add Custom CSS*.
+    > ### Note:  
+    > You can only select a technology from the UI Technology dropdown after you have chosen a preview page for that specific technology.
 
-4.  Enter your LESS or CSS code in the editor.
+3.  Enter your LESS or CSS code in the editor.
 
-    You want to define that the color of the whole page of an SAPUI5 application is the same as the brand color but with an opacity of 10%. To do so, you can use the SAPUI5 CSS class `sapUiBody` and reference the CSS custom property for the theming parameter `sapBrandColor`.
+    **Example**:
+
+    You want to define that the color of the whole page of an SAPUI5 application is the same as the brand color but with an opacity of 10%. To do so, you can use the SAPUI5 CSS class `sapUiBody` and reference the LESS variable property for the theming parameter `sapBrandColor`.
 
     ```
-    .sapUiBody{ 
-    	background-color: hsl(from var(--
-    sapBrandColor) h s l / .1);
+    .sapUiBody {
+      background-color: fade(@sapBrandColor, 10%);
     }
     ```
 
-5.  Choose *Apply*.
+4.  Choose *Apply*.
 
 
 

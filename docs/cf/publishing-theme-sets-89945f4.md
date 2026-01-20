@@ -12,4 +12,7 @@
 
     Once published, the theme set can be applied to an application.
 
+    > ### Note:  
+    > Every time you make changes to the theme set, you'll need to publish it again to make those changes available to applications.
+
 

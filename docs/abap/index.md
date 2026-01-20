@@ -2,15 +2,13 @@
 
 UI Theme Designer Celeste 1.26
 
--   [UI Theme Designer](ui-theme-designer-da5decc.md)
-    -   [What Is UI theme designer](what-is-ui-theme-designer-226627e.md)
+-   [What is UI Theme Designer](what-is-ui-theme-designer-da5decc.md)
 -   [What's New in UI Theme Designer](what-s-new-in-ui-theme-designer-6fade83.md)
 -   [Initial Setup of UI Theme Designer](Initial-Setup-of-UI-Theme-Designer/initial-setup-of-ui-theme-designer-a681c0d.md)
 -   [Get Started](Get-Started/get-started-a118094.md)
     -   [Custom Themes: Important Things to Know](Get-Started/custom-themes-important-things-to-know-8882c96.md)
     -   [Available Documentation](Get-Started/available-documentation-b29ee63.md)
     -   [Supported Browsers](Get-Started/supported-browsers-a8c11ef.md)
-    -   [Getting Support](Get-Started/getting-support-71e5105.md)
     -   [Keyboard Shortcuts](Get-Started/keyboard-shortcuts-2dbefe1.md)
 -   [About Themes](About-Themes/about-themes-574e8cb.md)
     -   [Structure of Theming Files](About-Themes/structure-of-theming-files-71bcf85.md)

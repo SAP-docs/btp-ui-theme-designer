@@ -2,15 +2,13 @@
 
 # Saving Themes
 
-Administrators save themes to make them available for applying to applications.
-
-You can save your theme at any time during its creation and design.
+Administrators save a theme at any time during its creation and design. A saved theme is not available for use. To make it available to applications, you must publish the theme.
 
 To save your theme, proceed with the following steps:
 
-1.  Choose *Theme* \> *Save As...*.
+1.  Choose *Theme* \> *Save* or *Theme* \> *Save As...*. If the theme wasn't saved before, you get the same dialog box as with *Save As...*.
 
-2.  In the *Save As...* dialog box, provide the following information:
+2.  In the *Save*/*Save As...* dialog box, provide the following information:
 
 
     <table>
@@ -62,7 +60,7 @@ To save your theme, proceed with the following steps:
     </td>
     <td valign="top">
     
-    \(Optional\) The theme name that is displayed in the theme list on the start screen.
+    The theme name that is displayed in the theme list on the start screen.
     
     </td>
     <td valign="top">
@@ -96,7 +94,7 @@ To save your theme, proceed with the following steps:
     </td>
     <td valign="top">
     
-    \(Optional\) The ID of a theme which is used if the current theme isn't available in the UI framework.
+    \(Optional\) The ID of a theme which is used if the current theme can't be applied to an application. For more information, see [Defining a Fallback Theme](defining-a-fallback-theme-af0f4e6.md).
     
     </td>
     <td valign="top">
@@ -113,7 +111,7 @@ To save your theme, proceed with the following steps:
     </td>
     <td valign="top">
     
-    \(Optional\) Mark this checkbox if your theme also supports RTL languages.
+    \(Optional\) Mark this checkbox if your theme should also support RTL languages.
     
     </td>
     <td valign="top">
@@ -124,10 +122,6 @@ To save your theme, proceed with the following steps:
     </tr>
     </table>
     
-
-You can also choose *Theme* \> *Save* to save a theme. If the theme wasn't saved before, you get the same dialog box as with *Save As...*
-
-Your theme is saved as an HTML5 application in your SAP BTP subaccount \(same one as you used to open the UI theme designer\). This enables you to work on it again at a later date.
 
 You can change the properties of the theme later via *Theme* \> *Properties*.
 

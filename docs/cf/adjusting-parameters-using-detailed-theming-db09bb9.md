@@ -15,9 +15,6 @@ If you want to theme specific controls and change more parameters than the quick
 -   You have added preview pages and selected one of them. For more information, see [Adding Preview Pages](adding-preview-pages-8af60d3.md).
 
 
-> ### Restriction:  
-> Detailed theming is only available for the SAP Quartz Light and SAP Quartz Dark theme.
-
 
 
 ## Context

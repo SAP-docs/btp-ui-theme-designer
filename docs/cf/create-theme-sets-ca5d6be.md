@@ -2,10 +2,9 @@
 
 # Create Theme Sets
 
-A theme set lets you define light, dark, and high-contrast appearances for your theme to adjust the theme automatically during the day in sync with your system.
+You can create theme sets to define light, dark, and high‑contrast appearance for your theme.
 
-> ### Note:  
-> To apply the theme set to an application, you must first publish it. Any time you make changes to the theme set, you'll need to publish it again to make those changes available to applications.
+This section covers the steps to create, import, publish, export, rename, and duplicate theme sets, so you can maintain coordinated appearance variants.
 
 > ### Restriction:  
 > SAP Fiori Launchpad can only work with theme sets where each theme is assigned to a single theme set. For more information, see [SAP Fiori Launchpad: Themes](https://help.sap.com/docs/ABAP_PLATFORM_NEW/a7b390faab1140c087b8926571e942b7/f30f13573623477cb66255770aabcf51.html).

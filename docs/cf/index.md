@@ -2,8 +2,7 @@
 
 UI Theme Designer Celeste 1.26
 
--   [UI Theme Designer](ui-theme-designer-935325f.md)
-    -   [What Is UI theme designer](what-is-ui-theme-designer-226627e.md)
+-   [What is UI Theme Designer?](what-is-ui-theme-designer-935325f.md)
 -   [UI Theme Designer for the Cloud Foundry Environment](ui-theme-designer-for-the-cloud-foundry-environment-7bb58b3.md)
     -   [What's New in UI Theme Designer](what-s-new-in-ui-theme-designer-d756396.md)
     -   [Service Plans and Metering](service-plans-and-metering-ea32bd2.md)
@@ -78,8 +77,11 @@ UI Theme Designer Celeste 1.26
         -   [Authentication](Security/authentication-ecda6c0.md)
         -   [Content Security Policy](Security/content-security-policy-b07600d.md)
         -   [Rate Limitation](Security/rate-limitation-12e1b87.md)
-    -   [Monitoring and Troubleshooting](monitoring-and-troubleshooting-6736ce0.md)
+    -   [Advanced Information](advanced-information-620d248.md)
+        -   [Theme Fallback](theme-fallback-bfe0aa3.md)
+        -   [Theme Parameter Dependencies](theme-parameter-dependencies-18d80b4.md)
+    -   [Troubleshooting](troubleshooting-6736ce0.md)
         -   [Getting Support](getting-support-71e5105.md)
-        -   [Guided Answers](guided-answers-8b0bf5c.md)
+        -   [Known Issues](known-issues-8b0bf5c.md)
     -   [Accessibility Features in UI Theme Designer](accessibility-features-in-ui-theme-designer-71f3184.md)
 

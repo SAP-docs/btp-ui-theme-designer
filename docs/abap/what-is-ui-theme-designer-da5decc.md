@@ -1,8 +1,8 @@
-<!-- loio226627e8f9d544eb99371158d0fc5227 -->
+<!-- loioda5decc9979944fa8dccaa04aa88594a -->
 
 <link rel="stylesheet" type="text/css" href="css/sap-icons.css"/>
 
-# What Is UI theme designer
+# What is UI Theme Designer
 
 Apply your corporate branding to applications based on SAP UI technologies. 
 
@@ -10,23 +10,9 @@ The UI theme designer is a browser-based tool for cross-theming scenarios. Use i
 
 Use the UI theme designer across different UI technologies, such as SAPUI5, UI5 Web Components, Unified Rendering included in Web Dynpro ABAP and SAP GUI for HTML, SAP Mobile Start and Fundamental Library Styles, to build your custom theme with an easy to use WYSIWYG editor.
 
-> ### Tip:  
-> The English version of this guide is open for contributions and feedback using GitHub. This allows you to get in contact with responsible authors of SAP Help Portal pages and the development team to discuss documentation-related issues. To contribute to this guide, or to provide feedback, choose the corresponding option on SAP Help Portal:
-> 
-> -   :pencil2:: Contribute to a documentation page. This option opens a pull request on GitHub.
-> 
-> -   <span class="SAP-icons-V5"></span> Feedback: Provide feedback about a documentation page. This option opens an issue on GitHub.
-> 
-> 
-> You need a GitHub account to use these options.
-> 
-> More information:
-> 
-> -   [Contribution Guidelines](https://help.sap.com/docs/open-documentation-initiative/contribution-guidelines/readme.html)
-> 
-> -   [Introduction Video: Open Documentation Initiative](https://www.youtube.com/watch?v=WJ0oarMlVW4)
-> 
-> -   [Blog Post: Introducing the Open Documentation Initiative](https://blogs.sap.com/2021/05/20/introducing-the-open-documentation-initiative/)
+
+
+![](images/Image_Map_Intro_page_for_UI_theme_designer_on_premise_b9f6f68.png)
 
 
 
@@ -182,7 +168,7 @@ We'd love to hear your thoughts on the UI theme designer. Share your feedback to
 
 
 
-<a name="loio226627e8f9d544eb99371158d0fc5227__section_oyj_cmr_j5b"/>
+<a name="loioda5decc9979944fa8dccaa04aa88594a__section_oyj_cmr_j5b"/>
 
 ## Overview Video
 
@@ -190,7 +176,29 @@ Watch this video to get an [overview of UI theme designer](https://video.sap.com
 
 
 
-<a name="loio226627e8f9d544eb99371158d0fc5227__section_yvl_sgp_mdc"/>
+### GitHub Feedback
+
+> ### Tip:  
+> The English version of this guide is open for contributions and feedback using GitHub. This allows you to get in contact with responsible authors of SAP Help Portal pages and the development team to discuss documentation-related issues. To contribute to this guide, or to provide feedback, choose the corresponding option on SAP Help Portal:
+> 
+> -   :pencil2:: Contribute to a documentation page. This option opens a pull request on GitHub.
+> 
+> -   <span class="SAP-icons-V5"></span> Feedback: Provide feedback about a documentation page. This option opens an issue on GitHub.
+> 
+> 
+> You need a GitHub account to use these options.
+> 
+> More information:
+> 
+> -   [Contribution Guidelines](https://help.sap.com/docs/open-documentation-initiative/contribution-guidelines/readme.html)
+> 
+> -   [Introduction Video: Open Documentation Initiative](https://www.youtube.com/watch?v=WJ0oarMlVW4)
+> 
+> -   [Blog Post: Introducing the Open Documentation Initiative](https://blogs.sap.com/2021/05/20/introducing-the-open-documentation-initiative/)
+
+
+
+<a name="loioda5decc9979944fa8dccaa04aa88594a__section_yvl_sgp_mdc"/>
 
 ## Further Information
 

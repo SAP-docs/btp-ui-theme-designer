@@ -40,7 +40,7 @@ Allows some sweeping high-level changes that are very robust across UI technolog
 </td>
 <td valign="top">
 
-Allows changes on a more detailed level. The parameters are grouped by semantics. Here more parameters are offered as for quick theming. The detailed theming is only available for selected UI technologies and base themes.
+Allows changes on a more detailed level. The parameters are grouped by semantics. Here more parameters are offered as for quick theming.
 
 </td>
 <td valign="top">
@@ -51,28 +51,6 @@ Allows changes only to parameters with an effect on native iOS and Android appil
 <td valign="top">
 
 Allows a finer grain of changes than quick and detailed theming. A greater number of parameters is offered for editing, which gives you advanced options for adapting themes.
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-Quick theming parameters apply to all supported UI technologies.
-
-</td>
-<td valign="top">
-
-Detailed theming parameters only apply to all supported UI technologies, but there are also UI technology specific parameters.
-
-</td>
-<td valign="top">
-
-Mobile theming parameters apply to all supported UI technologies, but especially to SAP Mobile Start applications.
-
-</td>
-<td valign="top">
-
-Both cross UI technology parameters and UI technology specific parameters are supported.
 
 </td>
 </tr>
@@ -149,28 +127,6 @@ Mobile theming parameters are displayed with a label rather than a technical nam
 <td valign="top">
 
 All parameters, including the quick theming parameters, are displayed with their technical name \(e.g. *sapHighlightColor*\).
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-Upgrade safety is guaranteed.
-
-</td>
-<td valign="top">
-
-Upgrade safety depends on the framework.
-
-</td>
-<td valign="top">
-
-Mobile theming parameters may evolve over time, potentially requiring maintenance after upgrades.
-
-</td>
-<td valign="top">
-
-Expert parameters may evolve over time, potentially requiring maintenance after upgrades.
 
 </td>
 </tr>

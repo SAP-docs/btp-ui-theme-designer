@@ -65,3 +65,5 @@ By following this approach, you ensure that both the SAP Build Work Zone site an
 
 [SAP Note 2124106](https://me.sap.com/notes/2124106   "Unified Rendering SAP Theme Support")
 
+[Theme Fallback](theme-fallback-bfe0aa3.md "Theme fallback is a multi‑phase mechanism that ensures a valid theme by checking custom, SAP, flavor, and default options when the requested theme is unavailable or invalid.")
+
