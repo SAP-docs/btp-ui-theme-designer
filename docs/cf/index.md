@@ -4,6 +4,7 @@ UI Theme Designer Celeste 1.26
 
 -   [What is UI Theme Designer?](what-is-ui-theme-designer-935325f.md)
 -   [UI Theme Designer for the Cloud Foundry Environment](ui-theme-designer-for-the-cloud-foundry-environment-7bb58b3.md)
+    -   [What's New for UI Theme Designer](what-s-new-for-ui-theme-designer-377f905.md)
     -   [What's New in UI Theme Designer](what-s-new-in-ui-theme-designer-d756396.md)
     -   [Service Plans and Metering](service-plans-and-metering-ea32bd2.md)
     -   [Initial Setup of UI Theme Designer](Initial-Setup-of-UI-Theme-Designer/initial-setup-of-ui-theme-designer-d9eb188.md)

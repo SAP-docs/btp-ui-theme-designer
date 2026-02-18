@@ -12,6 +12,10 @@ Use the UI theme designer across different UI technologies, such as SAPUI5, UI5 
 
 
 
+![](images/Image_Map_Opening_topic_for_UI_theme_designer_cloud_version_c5eb3af.png)
+
+
+
 ## Environment
 
 The UI theme designer runs in the following environments:
