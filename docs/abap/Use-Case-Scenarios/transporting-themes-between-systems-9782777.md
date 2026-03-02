@@ -44,5 +44,5 @@ You can transport themes from one system to another using the *Tool for Customer
 **Related Information**  
 
 
-[Exporting Themes](../Create-Themes/exporting-themes-26e5140.md "Administrators use the export function to download themes as zip files from the UI theme designer to a local hard disk.")
+[Exporting Themes and Theme Sets](../Create-Themes/exporting-themes-and-theme-sets-26e5140.md "You can export themes and theme sets as a zip archive.")
 

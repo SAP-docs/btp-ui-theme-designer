@@ -84,7 +84,7 @@ Update your backend system to a supported SAPUI5 version. For more information, 
 </td>
 <td valign="top">
 
-Define a fallback theme for your theme with a base SAP theme supported for the older SAPUI5 version. For more information, see [Defining a Fallback Theme](defining-a-fallback-theme-af0f4e6.md).
+Define a fallback theme for your theme with a base SAP theme supported for the older SAPUI5 version. For more information, see [Defining a Fallback Theme](Create-and-Edit-Themes-and-Theme-Sets/Customizing-Themes-in-the-Editor/defining-a-fallback-theme-af0f4e6.md).
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ A SAP theme is applied instead of a custom theme to all applications and SAP Bui
 </td>
 <td valign="top">
 
-Ensure your custom theme is based on a supported SAP theme. If your current base theme is deprecated, migrate your theme to a supported SAP theme. For more information, see [Migrating Themes](migrating-themes-cb63341.md).
+Ensure your custom theme is based on a supported SAP theme. If your current base theme is deprecated, migrate your theme to a supported SAP theme. For more information, see [Migrating Themes](Create-and-Edit-Themes-and-Theme-Sets/migrating-themes-cb63341.md).
 
 </td>
 </tr>

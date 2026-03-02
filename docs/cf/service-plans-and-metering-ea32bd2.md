@@ -40,7 +40,7 @@ standard
 </td>
 <td valign="top" align="justify">
 
-Provides the theming service using one repository per tenant. The repository is created by creating a service instance or via SaaS subscription of the theming service
+Provides the theming service using one repository per tenant. The repository is created by creating a service instance or via SaaS subscription of the theming service.
 
 </td>
 <td valign="top" align="justify">
@@ -56,7 +56,7 @@ Cloud Foundry, Kyma, Kubernetes
 
 [SAP Build Work Zone, standard edition - Service Plans and Metering](https://help.sap.com/docs/build-work-zone-standard-edition/sap-build-work-zone-standard-edition/commercial-models-and-metering)
 
-[SAP Build Work Zone, advanced edition - Service Plans and Metering.](https://help.sap.com/docs/build-work-zone-advanced-edition/sap-build-work-zone-advanced-edition/commercial-models-and-metering)
+[SAP Build Work Zone, advanced edition - Service Plans and Metering](https://help.sap.com/docs/build-work-zone-advanced-edition/sap-build-work-zone-advanced-edition/commercial-models-and-metering)
 
 [SAP Discovery Center Service - UI theme designer](https://discovery-center.cloud.sap/index.html#/serviceCatalog/ui-theme-designer/?service_plan=standard&region=all&commercialModel=cpea&tab=)
 

@@ -194,7 +194,7 @@ Once you have identified the correct component, gathering the following informat
 -   **URLs of affected sites:** Provide direct links to the impacted pages.
 -   **UI theme designer version information:** Specify the version\(s\) you are using. You can find the version information by opening the *Help* menu and selecting *About* within the UI theme designer web application.
 
--   **Custom theme files:** Attach a copy of your custom theme. To do this, export your theme from the UI theme designer using the *Source files only* option, as described in the [Exporting Themes](exporting-themes-26e5140.md) section.
+-   **Custom theme files:** Attach a copy of your custom theme. To do this, export your theme from the UI theme designer using the *Source files only* option, as described in the [Exporting Themes and Theme Sets](Create-and-Edit-Themes-and-Theme-Sets/exporting-themes-and-theme-sets-26e5140.md) section.
 
 -   **HTTP traces:** Capture HTTP traces using Google Chrome or Microsoft Edge \(Chromium\) as described in SAP Note [1990706](https://me.sap.com/notes/1990706). Tips for recording:
     -   Start recording before entering the site URL.

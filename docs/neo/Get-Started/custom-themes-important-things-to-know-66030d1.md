@@ -16,7 +16,7 @@ What is a custom theme?
 </td>
 <td valign="top">
 
-See [Basics of Theming](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/91ebfe2a14204244bd052a03018d6781.html "This section describes the basic concepts that administrators should know when creating themes with the UI theme designer.") :arrow_upper_right:.
+See [Overview of SAP Theming Content](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/91ebfe2a14204244bd052a03018d6781.html "SAP Theming Content is the set of parameters and assets that define branding and visual styles across SAP applications.") :arrow_upper_right:.
 
 </td>
 </tr>
@@ -30,7 +30,7 @@ What kinds of changes can I make in a custom theme?
 
 The UI theme designer allows you to make changes at several technical levels.
 
-See [Changing Theme Parameters](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/0d328f8ccef64def9f6cbba5e445870a.html "The UI theme designer allows you to make changes at several technical levels.") :arrow_upper_right:.
+See [Changing Parameters](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/0d328f8ccef64def9f6cbba5e445870a.html "You can change parameters of different types, like colors or images.") :arrow_upper_right:.
 
 </td>
 </tr>

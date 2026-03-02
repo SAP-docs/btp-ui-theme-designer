@@ -4,5 +4,5 @@
 
 Add a role and assign it to the UI theme designer permission to restrict access to UI theme designer.
 
-For further information, see [Setting up Permissions for the UI Theme Designer](../Initial-Setup-of-UI-Theme-Designer/setting-up-permissions-for-the-ui-theme-designer-c3fdb69.md).
+For further information, see [Permissions](../Advanced-Information/permissions-c3fdb69.md).
 

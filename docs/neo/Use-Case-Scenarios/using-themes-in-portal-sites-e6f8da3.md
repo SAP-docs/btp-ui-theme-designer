@@ -30,7 +30,7 @@ From here you can easily manage your themes and assign them to any site in your 
 
 4.  Publish your theme in the UI theme designer.
 
-    By doing this, you are automatically registering your theme with the Theme Manager in your SAP BTP subaccount. For more information, see [Publishing Themes](../Create-Themes/publishing-themes-a9a4151.md).
+    By doing this, you are automatically registering your theme with the Theme Manager in your SAP BTP subaccount. For more information, see [Publishing Themes and Theme Sets](../Create-Themes/publishing-themes-and-theme-sets-a9a4151.md).
 
 5.  Now you can access the Theme Manager to manage your theme and assign it to your Portal site \(launchpad or freestyle\). At runtime, end users will also be able to select this theme from a list of available themes when they want to change the branding of their site.
 

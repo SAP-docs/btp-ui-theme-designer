@@ -29,5 +29,5 @@ The theme repository browser allows you to access the theming files that are exp
 **Related Information**  
 
 
-[Structure of Theming Files](../About-Themes/structure-of-theming-files-71bcf85.md "The files defining custom themes and SAP standard themes are stored in the theme repository.")
+[What is a Theme?](../About-Themes/what-is-a-theme-71bcf85.md "You can create a theme with the UI theme designer to apply your corporate branding to SAP applications.")
 

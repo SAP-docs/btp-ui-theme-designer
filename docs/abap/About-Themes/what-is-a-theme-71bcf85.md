@@ -1,0 +1,73 @@
+<!-- loio71bcf850b58d49828df2b9ac408c7947 -->
+
+# What is a Theme?
+
+You can create a theme with the UI theme designer to apply your corporate branding to SAP applications.
+
+> ### Note:  
+> In this documentation, we use the term "theme" in a general sense when the context is clear. When it is necessary to distinguish, we explicitly refer to "SAP themes" or "custom themes."
+
+Custom themes are always based on an existing SAP theme and include your specific adaptations, such as a company logo, changes to main theming colors, or control-specific color adjustments.
+
+
+
+## What Can You Customize in a Theme?
+
+Most theming parameters are related to colors, but you can also customize certain images, font properties, and a limited set of dimension parameters.
+
+**You can customize:**
+
+-   Main colors and colors for various UI controls
+-   Images, such as the company logo or background images for the shell and applications
+-   Border radius \(for example, for buttons and tiles\)
+-   Fonts, either by selecting a common font family or using a web font
+-   Shadows
+
+**You can also adjust some dimension parameters, with limitations:**
+
+-   Border width
+-   Border radius \(for example, for buttons and tiles\)
+-   Font sizes
+
+> ### Remember:  
+> Changes to dimension parameters should be made with caution, as altering dimensions can potentially disrupt application layouts.
+
+For more information about themes, see [Create and Edit Themes and Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/0d2d662651d443288b5dce463acf4193.html "As a designer, you can create themes and theme sets to apply your brand to SAP Build Work Zone sites and applications.") :arrow_upper_right:.
+
+
+
+## Structure of a Custom Theme
+
+The structure of a custom theme mirrors that of SAP themes. For more details, see [Overview of SAP Theming Content](overview-of-sap-theming-content-91ebfe2.md).
+
+Custom themes contain only the delta information—meaning only the changes you made compared to the base SAP theme are saved. When a custom theme is compiled, both your customizations and the base SAP theme are combined to generate the final theme.
+
+Because a custom theme only stores the differences from the base SAP theme, its structure will vary depending on the specific changes you have made. Typically, it includes the same framework and library organization as SAP themes, along with metadata files \(such as `.theming` files\).
+
+**Example:**
+
+An exported ZIP file of a custom theme including an uploaded logo, a shell background image, and changes to main colors.
+
+```
+.
+├── Base
+│    └── baseLib
+│         ├── .theming
+│         ├── base.less
+│         ├── css_variables.less
+│         ├── custom.less
+│         ├── img
+│         │    └── misc
+│         │          ├── sapCompamyLogo.png
+│         │          └── sapShell_BackgroundImage.png
+│         └──  ...
+├── UI5
+│    └── ...
+├── UR
+│    └── ...
+├── exportThemesInfo.json
+└── neo-app.json
+```
+
+When a custom theme is compiled, it also generates a corresponding CSS file for each LESS file, as well as a theme avatar to visually represent the theme.
+

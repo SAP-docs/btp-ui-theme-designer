@@ -9,7 +9,7 @@ For more information on managing authentication and authorization, see [Managing
 **Related Information**  
 
 
-[Setting up Permissions for the UI Theme Designer](../Initial-Setup-of-UI-Theme-Designer/setting-up-permissions-for-the-ui-theme-designer-c3fdb69.md "To enable users to work with the UI theme designer, administrators must assign the UI theme designer permissions to the user's role.")
+[Permissions](../Advanced-Information/permissions-c3fdb69.md "UI theme designer defines different permissions, that administrators can set up access for editing themes.")
 
 [Managing Authentication and Authorization](https://help.sap.com/viewer/65de2977205c403bbc107264b8eccf4b/Cloud/en-US/1ff47b2d980e43a6b2ce294352333708.html)
 

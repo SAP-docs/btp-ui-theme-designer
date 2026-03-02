@@ -13,7 +13,7 @@ The following tables give an overview of the platforms and browser versions supp
 
 <a name="loiob1e96e25e2214eb0bb45721bd45c0210__section_swg_j2q_y3b"/>
 
-## Windows 8.1 and 10
+## Windows 11
 
 
 <table>
@@ -114,4 +114,6 @@ Latest version
 </td>
 </tr>
 </table>
+
+For more information, see [Product Availability Matrix \(PAM\)](https://help.sap.com/docs/link-disclaimer?site=https%3A%2F%2Fhelp.sap.com%2Fdocs%2Flink-disclaimer%3Fsite%3Dhttps%253A%252F%252Fsupport.sap.com%252Frelease-upgrade-maintenance%252Fpam.html%3Flocale%3Den-US%26state%3DDRAFT%26version%3DCloud%2520(dev)).
 

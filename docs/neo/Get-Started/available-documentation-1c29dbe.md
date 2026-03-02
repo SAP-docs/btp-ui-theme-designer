@@ -20,7 +20,7 @@ Below is a list of links to the platform and UI technology-specific documentatio
 
 -   SAP Enterprise Portal: [Working with the UI Theme Designer](https://help.sap.com/docs/SAP_NETWEAVER_731/f2f3f4b4543a4803b9023e8c31f1e72a/8ea763272dcd4b4ba6ea347050b1f3fc.html)
 
--   S/4HANA Cloud Public Edition: [Integrating UI Theme Designer](https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/643199014a4e4d6f9535cd6a9af5af8c.html?version=2502.VAL)
+-   S/4HANA Cloud Public Edition: [Integrating UI Theme Designer](https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/643199014a4e4d6f9535cd6a9af5af8c.html?version=2602.500)
 
 
 
@@ -30,8 +30,8 @@ Below is a list of links to the platform and UI technology-specific documentatio
 ## UI Technology-specific Information
 
 -   SAP UI5
-    -   [Theming](https://sapui5nightly.int.sap.eu2.hana.ondemand.com/sapui5-sdk-internal/#/topic/497c27a8ee26426faacd2b8a1751794a)
-    -   [Supported Combinations of Themes and Libraries](https://sapui5nightly.int.sap.eu2.hana.ondemand.com/sapui5-sdk-internal/#/topic/38ff8c27b022475a92b591bcf6262551)
+    -   [Theming](https://ui5.sap.com/#/topic/e9fc648661d84ed89360bbec3ae02611)
+    -   [Supported Combinations of Themes and Libraries](https://ui5.sap.com/#/topic/38ff8c27b022475a92b591bcf6262551)
 
 -   Web Dynpro ABAP:
     -   [Stylesheets and Themes](https://help.sap.com/docs/SUPPORT_CONTENT/wdabap/3362186816.html)

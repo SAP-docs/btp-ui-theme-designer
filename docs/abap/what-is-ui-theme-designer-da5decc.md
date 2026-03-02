@@ -66,7 +66,7 @@ Modify theming parameters and immediately preview how your theme will appear whe
 
 </dd><dt><b>
 
-Different level of theming
+Different levels of theming
 
 </b></dt>
 <dd>
@@ -159,7 +159,7 @@ Feedback
 </b></dt>
 <dd>
 
-We'd love to hear your thoughts on the UI theme designer. Share your feedback to hep us enhance the theming experience.
+We'd love to hear your thoughts on the UI theme designer. Share your feedback to help us enhance the theming experience by taking our quick 2-minute survey [Please give feedback on UI theme designer](https://sapinsights.eu.qualtrics.com/jfe/form/SV_2gcfdw3EYYOIz5A?product=UI%20theme%20designer&product_filter=theme%20designer).
 
 
 

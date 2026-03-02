@@ -21,10 +21,10 @@ The overall process is as follows:
 
 2.  Export the theme to your local hard disk.
 
-    For more information, see [Exporting Themes](../Create-Themes/exporting-themes-4b944c5.md).
+    For more information, see [Exporting Themes and Theme Sets](../Create-Themes/exporting-themes-and-theme-sets-4b944c5.md).
 
 3.  Import themes as an archive file from your local hard disk to the UI theme designer.
 
-    For more information, see [Importing Themes](../Create-Themes/importing-themes-139b3c4.md).
+    For more information, see [Importing Themes and Theme Sets](../Create-Themes/importing-themes-and-theme-sets-139b3c4.md).
 
 
