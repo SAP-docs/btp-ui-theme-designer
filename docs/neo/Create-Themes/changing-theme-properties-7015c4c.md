@@ -2,7 +2,7 @@
 
 # Changing Theme Properties
 
-You can change your theme properties. These include *Theme ID*, *Title*, *Vendor*, *Fallback Theme ID*, and *Support RTL*.
+You can change your theme properties. These include *Theme ID*, *Title*, *Vendor*, and *Fallback Theme ID*.
 
 
 
@@ -39,7 +39,6 @@ You are working in the editor as described in [Customizing Themes in the Editor]
     -   *Title*: the human-readable title of your theme.
     -   *Vendor* \(optional\): the human-readable name of the organization that provides the theme. The name must not start with “SAP” \(case-insensitive\).
     -   *Fallback Theme ID* \(optional\): the technical identifier of a theme to use as a fallback. For more information, see [Defining a Fallback Theme](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/af0f4e6e87a04f87905c2d23eff2603b.html "You can define a fallback theme ID for your themes. This serves as the primary option if end users experience a theme fallback.") :arrow_upper_right:.
-    -   *Support RTL* \(optional, only SAP S/4HANA\): select this checkbox to build files that support right-to-left languages such as Arabic or Hebrew.
 
 4.  Select *OK* to confirm.
 

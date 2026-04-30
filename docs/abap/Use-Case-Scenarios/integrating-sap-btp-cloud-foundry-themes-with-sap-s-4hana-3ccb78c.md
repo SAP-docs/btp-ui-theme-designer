@@ -80,7 +80,8 @@ With the OAuth 2.0 Client established, create a new HTTP destination in SAP S/4H
 
 4.  Switch to the *Logon & Security* tab and select *OAuth Settings*.
 5.  Select the `/UI5/THEMING_REMOTE` profile and choose *Save*.
-6.  Save everything.
+6.  Go to *Security Options* \> *Status of Secure Protocol* and set SSL to *Active*.
+7.  Save everything.
 
 
 

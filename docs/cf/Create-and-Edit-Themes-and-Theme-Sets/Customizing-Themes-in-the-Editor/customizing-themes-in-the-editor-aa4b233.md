@@ -16,6 +16,9 @@ You are editing a theme as described in [Editing Themes and Theme Sets](../editi
 
 ## Overview of the Editor
 
+![Theme editor showing a theme menu, preview area, and settings panel
+							side by side.](images/Theme_Editor_e4169f2.png)
+
 The interface includes a shell bar with the *Theme Menu* and the theme title. The editor contains three panes:
 
 -   The *Preview Pages* pane, which lists preview pages grouped by UI technologies;
@@ -25,6 +28,8 @@ The interface includes a shell bar with the *Theme Menu* and the theme title. Th
 You can resize the panes by dragging the dividers.
 
 
+
+<a name="loioaa4b233eb1da4f30ae6d888424a92de5__section_ahh_swj_m3c"/>
 
 ## Theme Menu
 
@@ -41,11 +46,15 @@ In this menu you can access actions that affect the entire theme:
 
 
 
+<a name="loioaa4b233eb1da4f30ae6d888424a92de5__section_m4v_ywj_m3c"/>
+
 ## Preview Pages Pane
 
 Within the editor, the *Preview Pages* pane lists available preview pages, organized by test suites and covering different aspects of various UI technologies. You can add more predefined previews and include your own applications. For more information, see [Selecting and Adding Preview Pages](selecting-and-adding-preview-pages-8988483.md).
 
 
+
+<a name="loioaa4b233eb1da4f30ae6d888424a92de5__section_wvy_zwj_m3c"/>
 
 ## Preview Pane
 
@@ -60,6 +69,8 @@ The preview toolbar includes:
 -   *Reload* <span class="SAP-icons-V5"></span>: Reloads the preview, useful for resolving preview issues or returning to a clean state.
 
 
+
+<a name="loioaa4b233eb1da4f30ae6d888424a92de5__section_ztd_bxj_m3c"/>
 
 ## Editor Pane
 

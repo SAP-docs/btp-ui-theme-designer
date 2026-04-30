@@ -27,7 +27,7 @@ When you export a theme, you can configure the contents of the zip archive depen
 
 2.  Choose *Export*.
 
-3.  **Optional:** Update the properties of the theme as described in [Changing Theme Properties](Customizing-Themes-in-the-Editor/changing-theme-properties-9766329.md) or of the theme set as described in [Customizing Theme Sets](customizing-theme-sets-ca5d6be.md).
+3.  **Optional:** Update the properties of the theme as described in [Changing Theme Properties](Customizing-Themes-in-the-Editor/changing-theme-properties-9766329.md) or of the theme set as described in [Customizing Theme Sets](customizing-theme-sets-ca5d6be.md). Select *Support RTL* to build files that support right-to-left languages such as Arabic or Hebrew.
 
     > ### Note:  
     > Updating the properties does not modify the theme or theme set itself. Just the theme or theme set in the exported zip archive will have the updated properties.

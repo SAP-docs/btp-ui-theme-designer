@@ -65,7 +65,6 @@ UI Theme Designer Celeste 1.26
         -   [Protecting Access to UI Theme Designer](Security/protecting-access-to-ui-theme-designer-53955c0.md)
         -   [Data Protection](Security/data-protection-bcfa58d.md)
         -   [Deletion of Custom Themes Following Contract Termination](Security/deletion-of-custom-themes-following-contract-termination-17a570d.md)
-        -   [Audit Logging](Security/audit-logging-cb346e3.md)
         -   [Auditing and Logging Information](Security/auditing-and-logging-information-5eeab0e.md)
         -   [Authentication](Security/authentication-ecda6c0.md)
         -   [Content Security Policy](Security/content-security-policy-b07600d.md)

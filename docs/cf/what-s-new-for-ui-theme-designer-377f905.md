@@ -87,6 +87,458 @@ UI Theme Designer
 </td>
 <td valign="top">
 
+Parameter Count Display in Expert Theming
+
+</td>
+<td valign="top">
+
+The parameter list in expert theming now shows both the total number of parameters and the number of currently visible parameters. This makes it easier for users to understand how many parameters are available, especially on macOS, where scrollbars may be hidden by default.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Container Control Preview Displays Themeable Elements Only
+
+</td>
+<td valign="top">
+
+Container control preview pages now display only control-relevant data instead of additional controls that could be added to the container. This helps users better understand which aspects of a control can be themed. Areas intended for arbitrary container content are now represented by a placeholder.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+Enhanced Delete Warning for Published Themes
+
+</td>
+<td valign="top">
+
+The delete confirmation dialog now includes an additional warning when users are about to delete a published theme or theme set. This makes the potential impact clearer if the theme is already in use by end users.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+-   Neo
+
+
+
+</td>
+<td valign="top">
+
+Theming Base Content Version
+
+</td>
+<td valign="top">
+
+The base theming content is updated to version 11.35.1. Review the changes at[https://github.com/SAP/theming-base-content/releases](https://github.com/SAP/theming-base-content/releases) .
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+-   Neo
+
+
+
+</td>
+<td valign="top">
+
+New `sapGroup_ContentAlternatingBackground`Parameter
+
+</td>
+<td valign="top">
+
+A new parameter, `sapGroup_ContentAlternatingBackground`, has been added to define the background color of the content area for alternating groups, making nested groups easier to distinguish visually.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+-   Neo
+
+
+
+</td>
+<td valign="top">
+
+New Parameters for the Shell Hero Banner Control
+
+</td>
+<td valign="top">
+
+New parameters have been added for the Shell Hero Banner control. All of them are available in the `sapShell_HeroBanner` namespace. These parameters include `sapShell_HeroBanner_Background`, which defines a background color or gradient, `sapShell_HeroBanner_BackgroundImage`, which adds a background image or gradient, and `sapShellHeroBanner_TextColor`, which sets the text color for the Hero Banner control. The background image layer is displayed on top of the background color layer.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+-   Neo
+
+
+
+</td>
+<td valign="top">
+
+Theming Base Content Version
+
+</td>
+<td valign="top">
+
+The base theming content is updated to version 11.35.0. Review the changes at [https://github.com/SAP/theming-base-content/releases](https://github.com/SAP/theming-base-content/releases).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+<td valign="top">
+
+2026-04-30
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 **Prohibit Palette Parameters Starting with Underscores** 
 
 </td>

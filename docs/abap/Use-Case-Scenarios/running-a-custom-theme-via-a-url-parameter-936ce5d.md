@@ -26,7 +26,7 @@ To run SAPUI5, Web Dynpro ABAP, or SAP GUI for HTML applications with a custom t
 
 2.  In the address field of your browser, add the following parameters to the application URL:
 
-    `sap-theme=<themeID>@/sap/public/bc/themes/~client-<client>`
+    `sap-theme=<themeID>@/sap/bc/rest/themes/~client-<client>`
 
     Where:
 
@@ -38,7 +38,7 @@ To run SAPUI5, Web Dynpro ABAP, or SAP GUI for HTML applications with a custom t
     For more information, see SAP Note [2043817](https://me.sap.com/notes/2043817) 
 
     > ### Note:  
-    > To consume a theme from a different host, use`theme=<themeID>@<protocol>://<hostname>:<port>/sap/public/bc/themes/~client-<client>`
+    > To consume a theme from a different host, use`theme=<themeID>@<protocol>://<hostname>:<port>/sap/bc/rest/themes/~client-<client>`
     > 
     > Where: `<protocol>`, `<hostname>`, and `<port>` are http/https, the full qualified host name and the protocol differs from the standard port.
     > 

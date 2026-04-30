@@ -176,7 +176,7 @@ Update the application router to the latest version as described in SAP Note [36
 </td>
 <td valign="top">
 
-Either avoid reading the stream or ensure the request body remains available for the UI theme designer service. For more information, see SAP Note [3659305.](https://me.sap.com/notes/3659305.)
+Either avoid reading the stream or ensure the request body remains available for the UI theme designer service. For more information, see SAP Note [3659305](https://me.sap.com/notes/3659305).
 
 </td>
 </tr>
@@ -220,7 +220,7 @@ A theme assigned to the SAP Build Work Zone site renders the site unusable. As a
 
 Start the SAP Build Work Zone site with the `sap-theme` URL parameter to temporarily apply a standard SAP theme.
 
-For example, add `?sap-theme=sap_horizon` to the end of your site URL.
+For example, add `sap-theme=sap_horizon` to the search parameters of your site URL.
 
 Once the site loads with the temporary theme:
 
@@ -232,6 +232,23 @@ Once the site loads with the temporary theme:
 4.  Change the theme to a working one.
 
 
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+Requests to the theming service return HTTP 429: too many requests.
+
+</td>
+<td valign="top">
+
+Rate limiting restricts the number of requests that tenants can make within a specific time window. For more information, see [Rate Limitation](Security/rate-limitation-12e1b87.md).
+
+</td>
+<td valign="top">
+
+The theming service is scaled for large customers, but traffic spikes should be avoided, see SAP Note [3731693](https://me.sap.com/notes/3731693).
 
 </td>
 </tr>

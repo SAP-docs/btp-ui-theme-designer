@@ -53,7 +53,7 @@ Microservice: https://theming-runtime.cfapps.<landscape\>.hana.ondemand.com
 </td>
 <td valign="top">
 
-10
+30
 
 </td>
 </tr>
@@ -65,7 +65,7 @@ Microservice: https://theming-runtime.cfapps.<landscape\>.hana.ondemand.com
 </td>
 <td valign="top">
 
-10
+30
 
 </td>
 </tr>
@@ -77,7 +77,7 @@ Microservice: https://theming-runtime.cfapps.<landscape\>.hana.ondemand.com
 </td>
 <td valign="top">
 
-10
+30
 
 </td>
 </tr>
@@ -101,9 +101,11 @@ Microservice: https://theming-repository.cfapps.<landscape\>.hana.ondemand.com
 </td>
 <td valign="top">
 
-4
+8
 
 </td>
 </tr>
 </table>
+
+The API endpoints of the theming-runtime microservice rely heavily on browser caching. As a result, the actual number of requests per second is much lower than the number of users accessing applications with custom themes would indicate.
 

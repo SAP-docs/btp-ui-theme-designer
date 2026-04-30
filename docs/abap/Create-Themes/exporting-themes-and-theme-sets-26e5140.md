@@ -27,7 +27,7 @@ When you export a theme, you can configure the contents of the zip archive depen
 
 2.  Choose *Export*.
 
-3.  **Optional:** Update the properties of the theme as described in [Changing Theme Properties](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/97663296135e4d5eae6204e2811f355f.html "You can change your theme properties. These include Theme ID, Title, Vendor, Fallback Theme ID, and Support RTL.") :arrow_upper_right: or of the theme set as described in [Customizing Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/ca5d6beed238406bafa899420f03469b.html "You can create theme sets to define light, dark, and high‑contrast appearances for your theme.") :arrow_upper_right:.
+3.  **Optional:** Update the properties of the theme as described in [Changing Theme Properties](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/97663296135e4d5eae6204e2811f355f.html "You can change your theme properties. These include Theme ID, Title, Vendor, and Fallback Theme ID.") :arrow_upper_right: or of the theme set as described in [Customizing Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/ca5d6beed238406bafa899420f03469b.html "You can create theme sets to define light, dark, and high‑contrast appearances for your theme.") :arrow_upper_right:. Select *Support RTL* to build files that support right-to-left languages such as Arabic or Hebrew.
 
     > ### Note:  
     > Updating the properties does not modify the theme or theme set itself. Just the theme or theme set in the exported zip archive will have the updated properties.
