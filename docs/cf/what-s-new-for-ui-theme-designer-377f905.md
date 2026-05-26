@@ -81,13 +81,142 @@ UI Theme Designer
 <td valign="top">
 
 -   Cloud Foundry
+-   Neo
 
 
 
 </td>
 <td valign="top">
 
-Parameter Count Display in Expert Theming
+**Theming Base Content Version**
+
+</td>
+<td valign="top">
+
+The base theming content is updated to version 11.36.2. Review the changes at [https://github.com/SAP/theming-base-content/releases](https://github.com/SAP/theming-base-content/releases).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-05-26
+
+</td>
+<td valign="top">
+
+2026-05-26
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+**Customer Engagement Initiative**
+
+</td>
+<td valign="top">
+
+Check out our upcoming customer engagement initiative: "AI-Assisted Guidance in the UI Theme Designer." [Register now to participate](https://influence.sap.com/sap/ino/#campaign/4230). Registration ends on 21 June 2026.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Announcement
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-05-26
+
+</td>
+<td valign="top">
+
+2026-05-26
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+**Parameter Count Display in Expert Theming**
 
 </td>
 <td valign="top">
@@ -151,7 +280,7 @@ UI Theme Designer
 </td>
 <td valign="top">
 
-Container Control Preview Displays Themeable Elements Only
+**Container Control Preview Displays Themeable Elements Only** 
 
 </td>
 <td valign="top">
@@ -215,7 +344,7 @@ UI Theme Designer
 </td>
 <td valign="top">
 
-Enhanced Delete Warning for Published Themes
+**Enhanced Delete Warning for Published Themes** 
 
 </td>
 <td valign="top">
@@ -280,12 +409,12 @@ UI Theme Designer
 </td>
 <td valign="top">
 
-Theming Base Content Version
+**Theming Base Content Version** 
 
 </td>
 <td valign="top">
 
-The base theming content is updated to version 11.35.1. Review the changes at[https://github.com/SAP/theming-base-content/releases](https://github.com/SAP/theming-base-content/releases) .
+The base theming content is updated to version 11.35.1. Review the changes at [https://github.com/SAP/theming-base-content/releases](https://github.com/SAP/theming-base-content/releases).
 
 </td>
 <td valign="top">
@@ -345,7 +474,7 @@ UI Theme Designer
 </td>
 <td valign="top">
 
-New `sapGroup_ContentAlternatingBackground`Parameter
+**New `sapGroup_ContentAlternatingBackground`Parameter** 
 
 </td>
 <td valign="top">
@@ -410,7 +539,7 @@ UI Theme Designer
 </td>
 <td valign="top">
 
-New Parameters for the Shell Hero Banner Control
+**New Parameters for the Shell Hero Banner Control** 
 
 </td>
 <td valign="top">
@@ -475,7 +604,7 @@ UI Theme Designer
 </td>
 <td valign="top">
 
-Theming Base Content Version
+**Theming Base Content Version** 
 
 </td>
 <td valign="top">

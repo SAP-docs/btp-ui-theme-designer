@@ -12,25 +12,42 @@ Use the UI theme designer across different UI technologies, such as SAPUI5, UI5 
 
 
 
+Watch this video to get an overview of the UI theme designer. 
+
+
+
 ## Environment
+
+Below is a list of links to the environments and UI technology-specific documentations available for the UI theme designer.
 
 The UI theme designer runs in the following environments:
 
--   SAP BTP Cloud Foundry environment
+-   [UI Theme Designer for the Cloud Foundry Environment](ui-theme-designer-for-the-cloud-foundry-environment-7bb58b3.md)
 
--   SAP BTP Neo environment
-
--   ABAP Platform
-
-
-You can integrate the UI theme designer from SAP BTP Cloud Foundry environment with:
-
--   SAP S/4HANA Cloud Public Edition
-
--   SAP BTP ABAP environment
+-   [SAP BTP Neo environment](https://help.sap.com/docs/btp/ui-theme-designer-for-neo-environment/ui-theme-designer-for-neo-environment)
 
 -   SAP BTP Kyma environment
 
+-   [ABAP Platform](https://help.sap.com/docs/ABAP_PLATFORM_NEW/7b10839d7f5f45b4b2a1a96fc95fd9bb/da5decc9979944fa8dccaa04aa88594a.html?version=202510.001)
+
+
+You can connect the UI theme designer from SAP BTP, Cloud Foundry environment to the following systems :
+
+-   SAP S/4HANA Cloud Public Edition
+
+-   SAP S/4HANA
+
+-   SAP S/4HANA Cloud Private Edition
+-   SAP BTP ABAP environment
+
+
+Fore more information about the supported integration scenarios for using themes in different applications and environments, see [Integration Scenarios](Integration-Scenarios/integration-scenarios-f04b3a0.md).
+
+Other theming approaches:
+
+-   [SAP SuccessFactors](https://help.sap.com/docs/successfactors-platform/managing-sap-successfactors-user-experience/brand-and-style-strategies-in-sap-successfactors?version=2605)
+-   [SAP Analytics Cloud](https://help.sap.com/docs/SAP_ANALYTICS_CLOUD/00f68c2e08b941f081002fd3691d86a7/d385f41f9f6343eba6ed87eeeb50650b.html)
+-   [SAP Cloud Identity Services \(Login Screen\)](https://help.sap.com/docs/cloud-identity-services/cloud-identity-services/configure-branding-style-for-application?version=Cloud)
 
 
 
@@ -164,13 +181,11 @@ We'd love to hear your thoughts on the UI theme designer. Share your feedback to
 
 
 
-<a name="loio935325fb130d41449362181fb6020dd0__section_oyj_cmr_j5b"/>
-
-## Overview Video
-
-Watch this video to get an [overview of UI theme designer](https://video.sap.com/media/t/1_7tm35v8p).
 
 
+### Architectural Overview
+
+![](images/UI_Theme_Designer_Architecture_cd35c89.png)
 
 
 
@@ -202,8 +217,12 @@ Watch this video to get an [overview of UI theme designer](https://video.sap.com
 
 ## Further Information
 
--   Check out the [SAP Fiori for Web Design Guidelines](https://experience.sap.com/fiori-design-web/) to get information about the SAP Fiori Design System, UI Elements, and the Designer Toolkit.
+-   Check out the [SAP Design System for Web](https://www.sap.com/design-system/fiori-design-web?external) to get information about the SAP Design System, UI Elements, and the SAP Web UI Kit.
 
 -   Be part of the [SAP UI theme designer community](https://pages.community.sap.com/topics/ui-theme-designer)
 
+-   UI5 Demo Kit: [Theming](https://ui5.sap.com/#/topic/497c27a8ee26426faacd2b8a1751794a)
+-   [UI Theme Designer | UI5 Web Components](https://ui5.github.io/webcomponents/docs/advanced/theming/)
+-   [Fundamental Library Styles](https://sap.github.io/fundamental-styles/?path=/docs/docs-introduction--docs#theming)
+-   Web Dynpro ABAP: [Stylesheets and themes](https://help.sap.com/docs/SUPPORT_CONTENT/wdabap/3362186816.html)
 

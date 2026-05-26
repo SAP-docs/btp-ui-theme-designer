@@ -32,13 +32,13 @@ Most theming parameters are related to colors, but you can also customize certai
 > ### Remember:  
 > Changes to dimension parameters should be made with caution, as altering dimensions can potentially disrupt application layouts.
 
-For more information about themes, see [Create and Edit Themes and Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/0d2d662651d443288b5dce463acf4193.html "As a designer, you can create themes and theme sets to apply your brand to SAP Build Work Zone sites and applications.") :arrow_upper_right:.
+For more information about themes, see [Create and Edit Themes and Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/0d2d662651d443288b5dce463acf4193.html "As a designer, you can create themes and theme sets to apply your brand to SAP Build Work Zone sites and applications.") :arrow_upper_right:.
 
 
 
 ## Structure of a Custom Theme
 
-The structure of a custom theme mirrors that of SAP themes. For more details, see [Overview of SAP Theming Content](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/91ebfe2a14204244bd052a03018d6781.html "SAP Theming Content is the set of parameters and assets that define branding and visual styles across SAP applications.") :arrow_upper_right:.
+The structure of a custom theme mirrors that of SAP themes. For more details, see [Overview of SAP Theming Content](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/91ebfe2a14204244bd052a03018d6781.html "SAP Theming Content is the set of parameters and assets that define branding and visual styles across SAP applications.") :arrow_upper_right:.
 
 Custom themes contain only the delta information—meaning only the changes you made compared to the base SAP theme are saved. When a custom theme is compiled, both your customizations and the base SAP theme are combined to generate the final theme.
 

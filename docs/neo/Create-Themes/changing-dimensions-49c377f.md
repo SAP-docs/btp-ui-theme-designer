@@ -10,7 +10,7 @@ SAP themes are based on font sizes relative to the root element \(the unit `rem`
 
 ## Prerequisites
 
-You use [Expert Theming](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/7b01607cb9564f6d94087a6db995c350.html "If you need to make changes beyond what or offer, use expert theming. This option lets you browse all available parameters and make fine-tuned adjustments to your theme.") :arrow_upper_right:.
+You use [Expert Theming](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/7b01607cb9564f6d94087a6db995c350.html "If you need to make changes beyond what or offer, use expert theming. This option lets you browse all available parameters and make fine-tuned adjustments to your theme.") :arrow_upper_right:.
 
 
 
@@ -34,5 +34,5 @@ The preview updates automatically.
 
 ## Next Steps
 
-Save your theme as described in [Saving Themes](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/c99d9df29d3c4a45a883e15ce2753178.html "You can save changes you made in your theme at any time during its creation and design.") :arrow_upper_right:.
+Save your theme as described in [Saving Themes](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/c99d9df29d3c4a45a883e15ce2753178.html "You can save changes you made in your theme at any time during its creation and design.") :arrow_upper_right:.
 

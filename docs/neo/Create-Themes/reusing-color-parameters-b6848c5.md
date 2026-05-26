@@ -10,7 +10,7 @@ You can create your own *Palette* of color parameters and reference them through
 
 ## Prerequisite
 
-You are working in the editor as described in [Customizing Themes in the Editor](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/aa4b233eb1da4f30ae6d888424a92de5.html "In the editor you can make changes to themes and preview them.") :arrow_upper_right:.
+You are working in the editor as described in [Customizing Themes in the Editor](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/aa4b233eb1da4f30ae6d888424a92de5.html "In the editor you can make changes to themes and preview them.") :arrow_upper_right:.
 
 
 
@@ -28,14 +28,14 @@ You are working in the editor as described in [Customizing Themes in the Editor]
     -   must not start with "SAP" \(case-insensitive\) or an underscore
     -   must not exceed 50 characters
 
-3.  Choose the color of the parameter as described in [Changing Colors](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/b6900f3e9cf649d095e3b057924c4c0f.html "You can change the colors of your theme, either by using the color picker or by entering the value directly.") :arrow_upper_right:.
+3.  Choose the color of the parameter as described in [Changing Colors](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/b6900f3e9cf649d095e3b057924c4c0f.html "You can change the colors of your theme, either by using the color picker or by entering the value directly.") :arrow_upper_right:.
 4.  Confirm with *Add palette parameter* <span class="SAP-icons-V5"></span>.
 
 
 
 ### To use a palette parameter:
 
-1.  Change the value of a color parameter as described in [Changing Colors](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/b6900f3e9cf649d095e3b057924c4c0f.html "You can change the colors of your theme, either by using the color picker or by entering the value directly.") :arrow_upper_right:.
+1.  Change the value of a color parameter as described in [Changing Colors](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/b6900f3e9cf649d095e3b057924c4c0f.html "You can change the colors of your theme, either by using the color picker or by entering the value directly.") :arrow_upper_right:.
 2.  In the color picker, select the palette parameter you want to use from the *Palette* section.
 3.  Select *OK* to confirm.
 
@@ -51,5 +51,5 @@ The palette parameter you created is available in your theme in all UI technolog
 
 Use your palette parameter.
 
-To use your palette parameter as a CSS custom property, see the example in [Adding Custom CSS](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/895a4b03cf664b79976d12f019c68b12.html "You can add custom CSS for different UI technologies to your theme.") :arrow_upper_right:.
+To use your palette parameter as a CSS custom property, see the example in [Adding Custom CSS](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/895a4b03cf664b79976d12f019c68b12.html "You can add custom CSS for different UI technologies to your theme.") :arrow_upper_right:.
 

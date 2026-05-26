@@ -12,8 +12,8 @@ You can add custom CSS for different UI technologies to your theme.
 
 ## Prerequisites
 
--   You have the `CustomCssEditor (sap-theming)` role as described in [Permissions](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/c3fdb69e274f4d9bb33139763faa7a1f.html "UI theme designer defines different permissions, that administrators can set up access for editing themes.") :arrow_upper_right:.
--   You are working in the editor as described in [Customizing Themes in the Editor](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/aa4b233eb1da4f30ae6d888424a92de5.html "In the editor you can make changes to themes and preview them.") :arrow_upper_right:.
+-   You have the `CustomCssEditor (sap-theming)` role as described in [Permissions](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/c3fdb69e274f4d9bb33139763faa7a1f.html "UI theme designer defines different permissions, that administrators can set up access for editing themes.") :arrow_upper_right:.
+-   You are working in the editor as described in [Customizing Themes in the Editor](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/aa4b233eb1da4f30ae6d888424a92de5.html "In the editor you can make changes to themes and preview them.") :arrow_upper_right:.
 
 
 
@@ -26,7 +26,7 @@ Adding custom CSS lets you make advanced changes of your theme that aren't possi
 > ### Note:  
 > -   SAP does not take responsibility for changes you make with custom CSS. If you create an incident as described in [Getting Support](https://help.sap.com/docs/ui-theme-designer/ui-theme-designer/getting-support?state=DRAFT), and the problem does not occur without custom CSS, SAP does not investigate the issue.
 > -   Custom CSS runs the risk of breaking when the CSS or HTML structure of the targeted UI technology changes. Your custom CSS will eventually stop functioning when the version of the targeted UI technology is updated. You'll need to make manual adjustments as needed.
-> -   Check whether you can achieve your target design using [Expert Theming](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/7b01607cb9564f6d94087a6db995c350.html "If you need to make changes beyond what or offer, use expert theming. This option lets you browse all available parameters and make fine-tuned adjustments to your theme.") :arrow_upper_right:. Use this approach whenever possible.
+> -   Check whether you can achieve your target design using [Expert Theming](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/7b01607cb9564f6d94087a6db995c350.html "If you need to make changes beyond what or offer, use expert theming. This option lets you browse all available parameters and make fine-tuned adjustments to your theme.") :arrow_upper_right:. Use this approach whenever possible.
 > -   Technically, what you author is not CSS but LESS \(and specifically LESS 1.6.3\). Some modern CSS features, like container queries, typed properties or modern color spaces, are not available and using them leads to build errors. Other features might be interpreted as LESS, and you have to escape them to keep them as CSS; for example, LESS would evaluate `calc(100% - 2px)` to `calc(98%)`, and you have to escape it as `~"calc(100% - 2px)"` to keep it.
 
 
@@ -61,7 +61,7 @@ Your custom CSS is added to the CSS of the UI technology you selected. The previ
 
 **To make your palette parameters available as CSS custom properties:**
 
-Suppose you have created the palette parameters `myBlue` and `myGreen` as described in [Reusing Color Parameters](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/16ed37f3d20a48b49c71108017caf0a8.html "You can create your own Palette of color parameters and reference them throughout your theme.") :arrow_upper_right:, and you want to use them in the otherwise theme-independent CSS of your own custom SAPUI5 control `com.example.MyButton`.
+Suppose you have created the palette parameters `myBlue` and `myGreen` as described in [Reusing Color Parameters](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/16ed37f3d20a48b49c71108017caf0a8.html "You can create your own Palette of color parameters and reference them throughout your theme.") :arrow_upper_right:, and you want to use them in the otherwise theme-independent CSS of your own custom SAPUI5 control `com.example.MyButton`.
 
 So you select a SAPUI5 preview in the *Preview Pages* pane and open the *CSS* tab in the *Editor* pane.
 
@@ -139,5 +139,5 @@ If you have a font that contains the glyphs 0xe026 <span class="SAP-icons-V5">î€
 
 ## Next Steps
 
-Save your changes as described in [Saving Themes](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/c99d9df29d3c4a45a883e15ce2753178.html "You can save changes you made in your theme at any time during its creation and design.") :arrow_upper_right:.
+Save your changes as described in [Saving Themes](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/c99d9df29d3c4a45a883e15ce2753178.html "You can save changes you made in your theme at any time during its creation and design.") :arrow_upper_right:.
 
