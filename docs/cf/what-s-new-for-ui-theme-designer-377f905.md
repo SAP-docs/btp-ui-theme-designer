@@ -93,6 +93,71 @@ UI Theme Designer
 </td>
 <td valign="top">
 
+The base theming content is updated to version 11.36.4. Review the changes at [https://github.com/SAP/theming-base-content/releases](https://github.com/SAP/theming-base-content/releases).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-06-25
+
+</td>
+<td valign="top">
+
+2026-06-25
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+-   Neo
+
+
+
+</td>
+<td valign="top">
+
+**Theming Base Content Version**
+
+</td>
+<td valign="top">
+
 The base theming content is updated to version 11.36.2. Review the changes at [https://github.com/SAP/theming-base-content/releases](https://github.com/SAP/theming-base-content/releases).
 
 </td>
@@ -128,12 +193,12 @@ Not applicable
 </td>
 <td valign="top">
 
-2026-05-26
+2026-05-28
 
 </td>
 <td valign="top">
 
-2026-05-26
+2026-05-28
 
 </td>
 </tr>
@@ -192,12 +257,12 @@ Not applicable
 </td>
 <td valign="top">
 
-2026-05-26
+2026-05-28
 
 </td>
 <td valign="top">
 
-2026-05-26
+2026-05-28
 
 </td>
 </tr>

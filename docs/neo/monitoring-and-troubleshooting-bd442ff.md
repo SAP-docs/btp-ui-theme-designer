@@ -51,7 +51,7 @@ Component Description
 <tr>
 <td valign="top">
 
-CA-UI2-THD
+CA-UI2-THD-NEO
 
 </td>
 <td valign="top">

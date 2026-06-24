@@ -94,7 +94,7 @@ The following SAP themes are currently supported for creating custom themes:
 
 For the most modern look and optimal accessibility, it is recommended to use the latest SAP Horizon themes when creating custom themes. To learn more about the reference palette and the design principles \(DNA\) of SAP themes, see [SAP Design System: Color Overview](https://www.sap.com/design-system/fiori-design-web/v1-142/foundations/visual/colors-overview).
 
-The reference palette and parameter dependencies may vary between themes. For details, review [Theme Parameter Dependencies](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/18d80b4f0aec482a98bbd9a8bc289749.html "") :arrow_upper_right:.
+The reference palette and parameter dependencies may vary between themes. For details, review [Theme Parameter Dependencies](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/18d80b4f0aec482a98bbd9a8bc289749.html "") :arrow_upper_right:.
 
 
 

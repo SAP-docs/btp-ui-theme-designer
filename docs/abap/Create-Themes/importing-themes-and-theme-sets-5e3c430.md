@@ -8,7 +8,7 @@ You can import themes and theme sets as an archive file from your local hard dis
 
 ## Prerequisites
 
-You are on the welcome page as described in [Managing Themes and Theme Sets on the Welcome Page](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/e3585083d5ef4478b455d8773d5b25c0.html "On the welcome page, you can manage themes and theme sets - create new ones, edit, publish, export, delete, rename, duplicate and migrate them.") :arrow_upper_right:.
+You are on the welcome page as described in [Managing Themes and Theme Sets on the Welcome Page](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/e3585083d5ef4478b455d8773d5b25c0.html "On the welcome page, you can manage themes and theme sets - create new ones, edit, publish, export, delete, rename, duplicate and migrate them.") :arrow_upper_right:.
 
 
 
@@ -25,7 +25,7 @@ You are on the welcome page as described in [Managing Themes and Theme Sets on t
 
 ## Next Steps
 
-Edit your theme as described in [Customizing Themes in the Editor](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/aa4b233eb1da4f30ae6d888424a92de5.html "In the editor you can make changes to themes and preview them.") :arrow_upper_right:, or edit your theme set as described in [Customizing Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/ca5d6beed238406bafa899420f03469b.html "You can create theme sets to define light, dark, and high‑contrast appearances for your theme.") :arrow_upper_right:.
+Edit your theme as described in [Customizing Themes in the Editor](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/aa4b233eb1da4f30ae6d888424a92de5.html "In the editor you can make changes to themes and preview them.") :arrow_upper_right:, or edit your theme set as described in [Customizing Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/ca5d6beed238406bafa899420f03469b.html "You can create theme sets to define light, dark, and high‑contrast appearances for your theme.") :arrow_upper_right:.
 
 > ### Note:  
 > -   You can only import themes from other environments if the theme is based on a SAP theme supported by the SAP BTP, Cloud Foundry environment. For example, you can’t import a theme based on Blue Crystal or Tradeshow.

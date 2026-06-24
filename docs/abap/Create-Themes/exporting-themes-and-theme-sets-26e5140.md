@@ -8,14 +8,14 @@ You can export themes and theme sets as a zip archive.
 
 ## Prerequisites
 
--   You are on the welcome page as described in [Managing Themes and Theme Sets on the Welcome Page](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/e3585083d5ef4478b455d8773d5b25c0.html "On the welcome page, you can manage themes and theme sets - create new ones, edit, publish, export, delete, rename, duplicate and migrate them.") :arrow_upper_right:.
--   You have created a theme or theme set as described in [Create and Edit Themes and Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/0d2d662651d443288b5dce463acf4193.html "As a designer, you can create themes and theme sets to apply your brand to SAP Build Work Zone sites and applications.") :arrow_upper_right:.
+-   You are on the welcome page as described in [Managing Themes and Theme Sets on the Welcome Page](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/e3585083d5ef4478b455d8773d5b25c0.html "On the welcome page, you can manage themes and theme sets - create new ones, edit, publish, export, delete, rename, duplicate and migrate them.") :arrow_upper_right:.
+-   You have created a theme or theme set as described in [Create and Edit Themes and Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/0d2d662651d443288b5dce463acf4193.html "As a designer, you can create themes and theme sets to apply your brand to SAP Build Work Zone sites and applications.") :arrow_upper_right:.
 
 
 
 ## Context
 
-When you export a theme, you can configure the contents of the zip archive depending on your use case. For example, you can include built CSS resources or even the resources of the base theme. With that, you can transport themes and theme sets between systems as described in [Transporting Themes Between Systems](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/ebc8f52da8ea43d58335501c8d87ddcc.html "") :arrow_upper_right:.
+When you export a theme, you can configure the contents of the zip archive depending on your use case. For example, you can include built CSS resources or even the resources of the base theme. With that, you can transport themes and theme sets between systems as described in [Transporting Themes Between Systems](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/ebc8f52da8ea43d58335501c8d87ddcc.html "") :arrow_upper_right:.
 
 
 
@@ -27,7 +27,7 @@ When you export a theme, you can configure the contents of the zip archive depen
 
 2.  Choose *Export*.
 
-3.  **Optional:** Update the properties of the theme as described in [Changing Theme Properties](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/97663296135e4d5eae6204e2811f355f.html "You can change your theme properties. These include Theme ID, Title, Vendor, and Fallback Theme ID.") :arrow_upper_right: or of the theme set as described in [Customizing Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/ca5d6beed238406bafa899420f03469b.html "You can create theme sets to define light, dark, and high‑contrast appearances for your theme.") :arrow_upper_right:. Select *Support RTL* to build files that support right-to-left languages such as Arabic or Hebrew.
+3.  **Optional:** Update the properties of the theme as described in [Changing Theme Properties](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/97663296135e4d5eae6204e2811f355f.html "You can change your theme properties. These include Theme ID, Title, Vendor, and Fallback Theme ID.") :arrow_upper_right: or of the theme set as described in [Customizing Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/ca5d6beed238406bafa899420f03469b.html "You can create theme sets to define light, dark, and high‑contrast appearances for your theme.") :arrow_upper_right:. Select *Support RTL* to build files that support right-to-left languages such as Arabic or Hebrew.
 
     > ### Note:  
     > Updating the properties does not modify the theme or theme set itself. Just the theme or theme set in the exported zip archive will have the updated properties.
@@ -60,5 +60,5 @@ This will download a zip archive based on your choices. To get more information 
 Import your theme or theme set in your target environment as described in [Importing Themes and Theme Sets](importing-themes-and-theme-sets-5e3c430.md).
 
 > ### Note:  
-> You can also export themes from the *Theme* menu of the editor under *Theme* \> *Export...*. For more information, see [Customizing Themes in the Editor](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/aa4b233eb1da4f30ae6d888424a92de5.html "In the editor you can make changes to themes and preview them.") :arrow_upper_right:.
+> You can also export themes from the *Theme* menu of the editor under *Theme* \> *Export...*. For more information, see [Customizing Themes in the Editor](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud_Val/en-US/aa4b233eb1da4f30ae6d888424a92de5.html "In the editor you can make changes to themes and preview them.") :arrow_upper_right:.
 
