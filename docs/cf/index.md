@@ -47,6 +47,7 @@ UI Theme Designer Celeste 1.26
                 -   [Defining a Fallback Theme](Create-and-Edit-Themes-and-Theme-Sets/Customizing-Themes-in-the-Editor/defining-a-fallback-theme-af0f4e6.md)
             -   [Saving Themes](Create-and-Edit-Themes-and-Theme-Sets/Customizing-Themes-in-the-Editor/saving-themes-c99d9df.md)
         -   [Customizing Theme Sets](Create-and-Edit-Themes-and-Theme-Sets/customizing-theme-sets-ca5d6be.md)
+        -   [Theme Limits and Restrictions](Create-and-Edit-Themes-and-Theme-Sets/theme-limits-and-restrictions-066fb62.md)
     -   [Integration Scenarios](Integration-Scenarios/integration-scenarios-f04b3a0.md)
         -   [Integrating in SAP Build Work Zone](Integration-Scenarios/integrating-in-sap-build-work-zone-2292463.md)
         -   [Integrating in SAP S/4HANA Cloud Public Edition and SAP BTP, ABAP Environment](Integration-Scenarios/integrating-in-sap-s-4hana-cloud-public-edition-and-sap-btp-abap-environment-f69af60.md)

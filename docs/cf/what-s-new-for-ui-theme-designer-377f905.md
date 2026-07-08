@@ -81,6 +81,70 @@ UI Theme Designer
 <td valign="top">
 
 -   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+**Theme Limits in SAP BTP Cloud Foundry** 
+
+</td>
+<td valign="top">
+
+The maximum number of themes per subaccount has been increased from 50 to 100. The error message shown when this limit is reached now clearly states the limit and suggests next steps \(export or delete a theme\). Additionally, all theme limits and restrictions — including size, file type, and naming rules — are now documented in a new Theme Limits and Restrictions page on the SAP Help Portal.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-07-09
+
+</td>
+<td valign="top">
+
+2026-07-09
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
 -   Neo
 
 

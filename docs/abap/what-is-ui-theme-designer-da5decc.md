@@ -6,7 +6,7 @@
 
 Apply your corporate branding to applications based on SAP UI technologies. 
 
-The UI theme designer is a browser-based tool for cross-theming scenarios. Use it to easily build your corporate identity themes by modifying one of the theme templates provided by SAP. For example, you can change the color scheme, or add your company logo. The tool is targeted at different user groups, including developers, visual designers, and administrators. It is offered with SAP Build Work Zone, standard edition and SAP Build Work Zone, advanced edition.
+The UI theme designer is a browser-based tool for cross-theming scenarios. Use it to easily build your corporate identity themes by modifying one of the theme templates provided by SAP. For example, you can change the color scheme, or add your company logo. The tool is targeted at different user groups, including developers, visual designers, and administrators.
 
 Use the UI theme designer across different UI technologies, such as SAPUI5, UI5 Web Components, Unified Rendering included in Web Dynpro ABAP and SAP GUI for HTML, SAP Mobile Start and Fundamental Library Styles, to build your custom theme with an easy to use WYSIWYG editor.
 
@@ -66,7 +66,7 @@ Modify theming parameters and immediately preview how your theme will appear whe
 
 </dd><dt><b>
 
-Different levels of theming
+Different level of theming
 
 </b></dt>
 <dd>
@@ -132,7 +132,7 @@ Define a fallback theme to be used when the primary theme cannot be applied to a
 
 </dd><dt><b>
 
-Automatic themes upgrade \(SAP BTP only\) 
+Automatic upgrade of themes \(SAP BTP only\) 
 
 </b></dt>
 <dd>
@@ -159,7 +159,7 @@ Feedback
 </b></dt>
 <dd>
 
-We'd love to hear your thoughts on the UI theme designer. Share your feedback to help us enhance the theming experience by taking our quick 2-minute survey [Please give feedback on UI theme designer](https://sapinsights.eu.qualtrics.com/jfe/form/SV_2gcfdw3EYYOIz5A?product=UI%20theme%20designer&product_filter=theme%20designer).
+We'd love to hear your thoughts on the UI theme designer. Share your feedback to hep us enhance the theming experience.
 
 
 

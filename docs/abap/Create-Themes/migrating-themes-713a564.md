@@ -10,9 +10,7 @@ Here's how you can migrate custom themes.
 
 ## Prerequisite
 
-You have created a theme.
-
-See [Creating a New Theme](creating-a-new-theme-f987d5f.md).
+You have created a theme. For more information, see [Creating a New Theme](creating-a-new-theme-f987d5f.md).
 
 
 

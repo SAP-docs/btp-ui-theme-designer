@@ -20,13 +20,7 @@ You are working in the editor as described in [Customizing Themes in the Editor]
 
 3.  Enter the properties you want to change:
 
-    -   *Theme ID*: the technical identifier for the theme. This value is case-sensitive. It must meet the following requirements:
-        -   must be unique across all your themes
-        -   must contain only alphanumerical characters and underscores
-        -   must start with alphabetic character
-        -   must not start with "SAP", \(case-insensitive\)
-        -   must not exceed 30 characters
-
+    -   *Theme ID*: the technical identifier for the theme. This value is case-sensitive and must be unique across all your themes. For all other naming requirements, see [Theme Limits and Restrictions](../theme-limits-and-restrictions-066fb62.md).
 
     > ### Note:  
     > You can't change the *Theme ID* directly. To change it, rename the theme as described in [Renaming Themes and Theme Sets](../renaming-themes-and-theme-sets-39a6269.md). To create a copy with a different Theme ID, duplicate the theme as described in [Duplicating Themes and Theme Sets](../duplicating-themes-and-theme-sets-ec77044.md).
@@ -37,7 +31,7 @@ You are working in the editor as described in [Customizing Themes in the Editor]
     > *Based On* cannot be changed directly. To create a copy based on a different SAP theme, migrate the theme as described in [Migrating Themes](../migrating-themes-cb63341.md).
 
     -   *Title*: the human-readable title of your theme.
-    -   *Vendor* \(optional\): the human-readable name of the organization that provides the theme. The name must not start with “SAP” \(case-insensitive\).
+    -   *Vendor* \(optional\): the human-readable name of the organization that provides the theme. The name must not start with "SAP" \(case-insensitive\).
     -   *Fallback Theme ID* \(optional\): the technical identifier of a theme to use as a fallback. For more information, see [Defining a Fallback Theme](defining-a-fallback-theme-af0f4e6.md).
 
 4.  Select *OK* to confirm.

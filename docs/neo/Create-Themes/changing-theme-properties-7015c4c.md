@@ -20,13 +20,7 @@ You are working in the editor as described in [Customizing Themes in the Editor]
 
 3.  Enter the properties you want to change:
 
-    -   *Theme ID*: the technical identifier for the theme. This value is case-sensitive. It must meet the following requirements:
-        -   must be unique across all your themes
-        -   must contain only alphanumerical characters and underscores
-        -   must start with alphabetic character
-        -   must not start with "SAP", \(case-insensitive\)
-        -   must not exceed 30 characters
-
+    -   *Theme ID*: the technical identifier for the theme. This value is case-sensitive and must be unique across all your themes. For all other naming requirements, see [Theme Limits and Restrictions](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/066fb621527b4357a259cd09ca308bdd.html "The theme repository in the SAP BTP, Cloud Foundry environment enforces limits on the size of the theme, the number of themes per subaccount, allowed file types, and theme ID naming. Themes that violate these constraints can't be saved or uploaded.") :arrow_upper_right:.
 
     > ### Note:  
     > You can't change the *Theme ID* directly. To change it, rename the theme as described in [Renaming Themes and Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/39a6269c0d4c49e994fc5957dcc81409.html "You can rename themes and theme sets to change their properties.") :arrow_upper_right:. To create a copy with a different Theme ID, duplicate the theme as described in [Duplicating Themes and Theme Sets](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/ec77044b20ba4888a1d8de474f76a040.html "You can create a copy of an existing theme or theme set by duplicating it.") :arrow_upper_right:.
@@ -37,7 +31,7 @@ You are working in the editor as described in [Customizing Themes in the Editor]
     > *Based On* cannot be changed directly. To create a copy based on a different SAP theme, migrate the theme as described in [Migrating Themes](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/cb63341115d444ac8bec8bb44ad63498.html "Here's how you can migrate custom themes.") :arrow_upper_right:.
 
     -   *Title*: the human-readable title of your theme.
-    -   *Vendor* \(optional\): the human-readable name of the organization that provides the theme. The name must not start with “SAP” \(case-insensitive\).
+    -   *Vendor* \(optional\): the human-readable name of the organization that provides the theme. The name must not start with "SAP" \(case-insensitive\).
     -   *Fallback Theme ID* \(optional\): the technical identifier of a theme to use as a fallback. For more information, see [Defining a Fallback Theme](https://help.sap.com/viewer/09f6818d8e064537973102d6289e2aca/Cloud/en-US/af0f4e6e87a04f87905c2d23eff2603b.html "You can define a fallback theme ID for your themes. This serves as the primary option if end users experience a theme fallback.") :arrow_upper_right:.
 
 4.  Select *OK* to confirm.

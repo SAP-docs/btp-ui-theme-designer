@@ -14,6 +14,9 @@ This section provides detailed step by step instructions for creating a new them
 
 You have launched the theme designer as described in [Launching the Theme Designer Web App](launching-the-theme-designer-web-app-8f49dce.md).
 
+> ### Note:  
+> Before you create or upload a theme, be aware of the size limits, allowed file types, and naming rules that apply to themes in the SAP BTP, Cloud Foundry environment. For more information, see [Theme Limits and Restrictions](theme-limits-and-restrictions-066fb62.md).
+
 
 
 ## Procedure
