@@ -10,7 +10,10 @@ Administrators manage themes for SAP Build Work Zone sites using the Theme Manag
 
 ## Prerequisite
 
-You have published a theme or theme set as described in [Publishing Themes and Theme Sets](../Create-and-Edit-Themes-and-Theme-Sets/publishing-themes-and-theme-sets-f4889a4.md).
+-   You have published a theme or theme set as described in [Publishing Themes and Theme Sets](../Create-and-Edit-Themes-and-Theme-Sets/publishing-themes-and-theme-sets-f4889a4.md).
+
+-   You have made sure that the applications in your SAP Build Work Zone sites use only UI technologies supported for remote theming, as described in [Supported Themes and UI Technologies for Remote Theming](supported-themes-and-ui-technologies-for-remote-theming-8e6b696.md).
+
 
 
 

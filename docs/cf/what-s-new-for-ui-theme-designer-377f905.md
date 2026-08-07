@@ -87,6 +87,70 @@ UI Theme Designer
 </td>
 <td valign="top">
 
+**Toolbar and User Menu Reorganization** 
+
+</td>
+<td valign="top">
+
+The *Import* button has been relocated from the Welcome page title area to the theme list toolbar, and the SAPUI5 Version button has been moved to the user menu.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-08-06
+
+</td>
+<td valign="top">
+
+2026-08-06
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 **Theme Limits in SAP BTP Cloud Foundry** 
 
 </td>

@@ -8,7 +8,10 @@ You can use themes created in SAP BTP, Cloud Foundry edition directly in your SA
 
 ## Prerequisites
 
-You have published a theme or theme set as described in [Publishing Themes and Theme Sets](../Create-and-Edit-Themes-and-Theme-Sets/publishing-themes-and-theme-sets-f4889a4.md).
+-   You have published a theme or theme set as described in [Publishing Themes and Theme Sets](../Create-and-Edit-Themes-and-Theme-Sets/publishing-themes-and-theme-sets-f4889a4.md).
+
+-   You have made sure that your SAP S/4HANA or SAP S/4HANA Cloud Private Edition applications use only UI technologies supported for remote theming, as described in [Supported Themes and UI Technologies for Remote Theming](supported-themes-and-ui-technologies-for-remote-theming-8e6b696.md).
+
 
 
 

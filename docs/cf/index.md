@@ -56,6 +56,7 @@ UI Theme Designer Celeste 1.26
         -   [Integrating in SAP Fieldglass](Integration-Scenarios/integrating-in-sap-fieldglass-80642ec.md)
         -   [Integrating in SAP GUI for Windows](Integration-Scenarios/integrating-in-sap-gui-for-windows-d026b59.md)
         -   [Integrating in Standalone SAPUI5 Applications](Integration-Scenarios/integrating-in-standalone-sapui5-applications-25896d0.md)
+        -   [Supported Themes and UI Technologies for Remote Theming](Integration-Scenarios/supported-themes-and-ui-technologies-for-remote-theming-8e6b696.md)
     -   [Development](development-7c82544.md)
         -   [Developing Themеable Applications](developing-them-able-applications-4415dd3.md)
             -   [Determining Theme ID and Theme Root](determining-theme-id-and-theme-root-c612d38.md)

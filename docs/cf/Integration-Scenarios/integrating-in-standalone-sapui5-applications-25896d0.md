@@ -32,7 +32,7 @@ For that, you specify the right *Theme ID* and *Theme Root*, and configure SAPUI
     -   **Via URL parameters:** append the URL parameters `sap-theme=${themeId}@${themeRoot}` and `sap-ui-versionedLibCss=true` to the application URL. For example:
 
         ```
-        /your-application?sap-theme=your_theme@https://example.com&sap-ui-versionedLibCss=true
+        /my-application?sap-theme=my_theme@https://example.com&sap-ui-versionedLibCss=true
         ```
 
     -   **Via bootstrap attributes:** add `data-sap-ui-theme="${themeId}" data-sap-ui-theme-roots='{"${themeId}": "${themeRoot}/UI5"}' data-sap-ui-versionedLibCss="true"` to the bootstrap configuration of your application. For example:
@@ -40,8 +40,8 @@ For that, you specify the right *Theme ID* and *Theme Root*, and configure SAPUI
         ```
         <script id="sap-ui-bootstrap"
                      src="resources/sap-ui-core.js"   
-                     data-sap-ui-theme="your_theme"  
-                     data-sap-ui-theme-roots='{"your_theme": "https://example.com/UI5"}'
+                     data-sap-ui-theme="my_theme"  
+                     data-sap-ui-theme-roots='{"my_theme": "https://example.com/UI5"}'
                      data-sap-ui-versionedLibCss="true"></script>
         ```
 
@@ -50,8 +50,8 @@ For that, you specify the right *Theme ID* and *Theme Root*, and configure SAPUI
         ```
         globalThis["sap-ui-config"] = {   
                     ...globalThis["sap-ui-config"],   
-                    theme: "your_theme",   
-                    "theme-roots": {...globalThis["sap-ui-config"]["theme-roots"], your_theme: "https://example.com/UI5"}, 
+                    theme: "my_theme",   
+                    "theme-roots": {...globalThis["sap-ui-config"]["theme-roots"], my_theme: "https://example.com/UI5"}, 
                     versionedlibcss: true 
                   }
         ```
