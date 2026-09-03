@@ -14,6 +14,9 @@ Apart from using custom themes from the local UI theme designer, you can also ac
 -   With local theming, you must rebuild custom themes after each UI5 or Unified Rendering framework update. This is not required when using theming data from Cloud Foundry.
 
 
+> ### Note:  
+> Remote theming delegates the theme build to the UI theme designer on Cloud Foundry. As a result only themes that can be built by the UI theme designer service on Cloud Foundry can be served in a remote theming scenario. For more information, see [Supported Themes and UI Technologies for Remote Theming](https://help.sap.com/docs/btp/ui-theme-designer/supported-themes-and-ui-technologies-for-remote-theming?version=Cloud&ai=true).
+
 The process of enabling theming from SAP BTP, Cloud Foundry involves several key steps:
 
 1.  Set up access to the theming infrastructure in your Cloud Foundry account.
@@ -21,10 +24,9 @@ The process of enabling theming from SAP BTP, Cloud Foundry involves several key
 3.  Enter the SM59 ID in SPRO customizing.
 4.  After successful setup, your SAP S/4HANA system retrieves theming information directly from Cloud Foundry.
 
-
 ![To start using your Cloud Foundry themes in SAP S/4HANA, you first need to set up access to the theming infrastructure in Cloud Foundry, create OAuth 2.0 client in S/4HANA and create an HTTP destination there again.](images/Accessing_CF_Themes_from_S4HANA_d6120f4.png)
 
-The next sections describe these steps in detail.
+The next sections describe these in more detail. For a step-by-step tutorial covering all these steps, see [Integrate SAP BTP, Cloud Foundry Themes with SAP S/4HANA](https://developers.sap.com/tutorials/ui-theme-designer-remote-theming.html).
 
 
 

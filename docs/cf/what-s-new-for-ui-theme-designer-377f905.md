@@ -87,6 +87,198 @@ UI Theme Designer
 </td>
 <td valign="top">
 
+**Use SAP BTP, Cloud Foundry Themes in SAP S/4HANA 2025 with Remote Theming** 
+
+</td>
+<td valign="top">
+
+You can now use themes from SAP BTP, Cloud Foundry edition directly in your SAP S/4HANA 2025 environment by using remote theming. This reduces maintenance effort because theme changes no longer need to be distributed separately when a Cloud Foundry theme already exists. In addition, after a UI framework update in your SAP S/4HANA on-premise system, you no longer need to carry out the usual post-upgrade theme maintenance tasks such as updating theming components and recompiling the theme. For more information, see the blog post [Custom Themes from SAP BTP, Cloud Foundry — Now Directly in Your S/4HANA On-Premise System](https://community.sap.com/t5/technology-blog-posts-by-sap/custom-themes-from-sap-btp-cloud-foundry-now-directly-in-your-s-4hana-on/ba-p/14467404) and the tutorial [Integrate SAP BTP, Cloud Foundry Themes with SAP S/4HANA](https://developers.sap.com/tutorials/ui-theme-designer-remote-theming).
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+Changed
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-08-31
+
+</td>
+<td valign="top">
+
+2026-09-03
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+**Shell Hero Banner Preview** 
+
+</td>
+<td valign="top">
+
+A preview for the Shell Hero Banner component is now available on the Shell preview page. This makes it easier to theme the Shell Hero Banner and validate your changes directly in the preview. All Shell Hero Banner theming parameters start with `sapShell_HeroBanner` and can be found through a search in Expert Theming.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-08-31
+
+</td>
+<td valign="top">
+
+2026-09-03
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
+**Joule Support in UI Theme Designer** 
+
+</td>
+<td valign="top">
+
+UI theme designer now supports SAP Joule when you launch it from SAP Build Work Zone with the Joule integration configured for SAP Build Work Zone \(see [Run the Joule Booster](https://help.sap.com/docs/joule/integrating-joule-with-sap/run-booster?version=CLOUD&ai=true)\). Once the integration is active, the Joule icon appears in the UI theme designer header toolbar, and you can open the Joule panel within the tool. Joule can answer questions about UI theme designer functionality, setup, and infrastructure covered in the UI theme designer documentation.
+
+</td>
+<td valign="top">
+
+Info only
+
+</td>
+<td valign="top">
+
+General Availability
+
+</td>
+<td valign="top">
+
+New
+
+</td>
+<td valign="top">
+
+Technology
+
+</td>
+<td valign="top">
+
+Not applicable
+
+</td>
+<td valign="top">
+
+ 
+
+</td>
+<td valign="top">
+
+2026-08-31
+
+</td>
+<td valign="top">
+
+2026-09-03
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+UI Theme Designer
+
+</td>
+<td valign="top">
+
+-   Cloud Foundry
+
+
+
+</td>
+<td valign="top">
+
 **Toolbar and User Menu Reorganization** 
 
 </td>

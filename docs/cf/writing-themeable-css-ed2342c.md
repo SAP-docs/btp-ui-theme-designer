@@ -181,35 +181,6 @@ The CSS custom property `--sapSapThemeId` contains the theme ID of the theme \(i
 }
 ```
 
-> ### Note:  
-> Container style queries are not baseline supported yet. Firefox has the by-default-disabled feature flag `layout.css.style-queries.enabled`, follow [Bugzilla: Bug 1795622 Support style\(\) container queries](https://bugzilla.mozilla.org/show_bug.cgi?id=1795622) for updates. Until it is available in the baseline, you can evaluate the custom properties in JavaScript, set CSS classes to indicate the read value, and rephrase your container style queries as nested selectors against those CSS classes:
-> 
-> ```
-> <link id="custom-theme" rel="stylesheet" href="${themeRoot}/Base/baseLib/${themeId}/css_variables.css">
-> <style>
-> /* same CSS as above */
-> html.--sapSapThemeId-sap_horizon {
->   body {
->     --my-color: #123456;
->   }
-> }
-> html.--sapSapThemeId-sap_horizon_dark,
-> html.--sapSapThemeId-sap_horizon_hcb,
-> html.--sapSapThemeId-sap_fiori_3_dark,
-> html.--sapSapThemeId-sap_fiori_3_hcb {
->   body {
->     --my-color: #abcdef;
->   }
-> }
-> </style>
-> <script>
-> document.getElementById("custom-theme").addEventListener("load", () => requestAnimationFrame(() => {
->   const sapSapThemeId = getComputedStyle(document.body).getPropertyValue("--sapSapThemeId");
->   document.body.parentElement.classList.add(`--sapSapThemeId-${sapSapThemeId}`);
-> }));
-> </script>
-> ```
-
 
 
 ### To work with right-to-left reading modes

@@ -24,7 +24,7 @@ You are working in the editor as described in [Customizing Themes in the Editor]
 
 **To add or remove preview pages from the predefined set:**
 
-1.  Select *Add Preview Pages* <span class="SAP-icons-V5"></span>.
+1.  Choose *Add Preview Pages* by selecting the *Add* button <span class="SAP-icons-V5"></span>.
 2.  Choose a test suite.
 3.  Select the preview pages you want to add or deselect the pages you want to remove.
 
@@ -33,7 +33,7 @@ You are working in the editor as described in [Customizing Themes in the Editor]
 
 **To add your own applications:**
 
-1.  Select *Add Preview Pages* <span class="SAP-icons-V5"></span>.
+1.  Choose *Add Preview Pages* by selecting the *Add* button <span class="SAP-icons-V5"></span>.
 2.  Enter the URL of the application in the *Link to Application* field under the *Add Application* section.
 3.  **Optional** Name the application. This name appears in the preview pages list. If you don't provide a name, the UI theme designer tries to generate one based on the page.
 4.  Choose *Add*.

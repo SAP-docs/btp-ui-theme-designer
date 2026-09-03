@@ -29,7 +29,7 @@ You are working in the editor as described in [Customizing Themes in the Editor]
     -   must not exceed 50 characters
 
 3.  Choose the color of the parameter as described in [Changing Colors](changing-colors-b6900f3.md).
-4.  Confirm with *Add palette parameter* <span class="SAP-icons-V5"></span>.
+4.  Choose *Add palette parameter* by selecting the `Add` button <span class="SAP-icons-V5"></span>.
 
 
 
